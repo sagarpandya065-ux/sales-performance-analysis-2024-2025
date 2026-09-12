@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,City,State,Region,Product_ID,Product_Name,Category,Quantity,Unit_Price,Discount,Salesperson,Payment_Mode,NetSales
+O00001,27-09-2024,C0103,Customer 103,Thane,Maharashtra,West,P013,Webcam,Electronics,2,4200,8%,Arjun,Credit Card,7728
+O00002,28-03-2024,C0215,Customer 215,Chennai,Tamil Nadu,South,P011,Notebook,Office Supplies,1,180,0%,Rahul,UPI,180
+O00003,17-02-2025,C0002,Customer 2,Jaipur,Rajasthan,North,P012,Backpack,Accessories,1,2200,0%,Vikram,Debit Card,2200
+O00004,14-07-2025,C0058,Customer 58,Surat,Gujarat,West,P013,Webcam,Electronics,2,4200,5%,Karan,UPI,7980
+O00005,17-11-2025,C0208,Customer 208,Bhubaneswar,Odisha,East,P014,External SSD,Electronics,2,8500,5%,Priya,Credit Card,16150
+O00006,08-10-2025,C0131,Customer 131,Ahmedabad,Gujarat,West,P003,Tablet,Electronics,1,18000,0%,Priya,Net Banking,18000
+O00007,11-12-2024,C0014,Customer 14,Pune,Maharashtra,West,P010,Printer,Office Supplies,1,11500,8%,Arjun,Debit Card,10580
+O00008,04-02-2024,C0172,Customer 172,Kochi,Kerala,South,P008,Office Chair,Furniture,4,12500,2%,Karan,Debit Card,49000
+O00009,21-04-2025,C0134,Customer 134,Surat,Gujarat,West,P010,Printer,Office Supplies,5,11500,10%,Neha,Credit Card,51750
+O00010,27-09-2024,C0228,Customer 228,Kolkata,West Bengal,East,P015,USB Hub,Accessories,1,1400,0%,Amit,Cash,1400
+O00011,22-02-2024,C0213,Customer 213,Kochi,Kerala,South,P002,Smartphone,Electronics,2,28000,20%,Priya,Credit Card,44800
+O00012,05-03-2024,C0041,Customer 41,Kochi,Kerala,South,P015,USB Hub,Accessories,1,1400,5%,Amit,UPI,1330
+O00013,13-05-2025,C0216,Customer 216,Bhubaneswar,Odisha,East,P011,Notebook,Office Supplies,2,180,8%,Amit,Debit Card,331.2
+O00014,10-02-2024,C0234,Customer 234,Delhi,Delhi,North,P010,Printer,Office Supplies,4,11500,10%,Priya,UPI,41400
+O00015,27-07-2025,C0048,Customer 48,Delhi,Delhi,North,P007,Headphones,Accessories,1,3200,8%,Karan,UPI,2944
+O00016,04-09-2025,C0035,Customer 35,Mumbai,Maharashtra,West,P003,Tablet,Electronics,5,18000,10%,Vikram,Credit Card,81000
+O00017,27-01-2025,C0142,Customer 142,Delhi,Delhi,North,P011,Notebook,Office Supplies,2,180,0%,Priya,UPI,360
+O00018,17-07-2025,C0063,Customer 63,Delhi,Delhi,North,P001,Laptop,Electronics,2,55000,8%,Vikram,UPI,101200
+O00019,24-06-2025,C0237,Customer 237,Bhubaneswar,Odisha,East,P011,Notebook,Office Supplies,1,180,0%,Rahul,Debit Card,180
+O00020,10-07-2025,C0028,Customer 28,Pune,Maharashtra,West,P010,Printer,Office Supplies,1,11500,0%,Priya,Net Banking,11500
+O00021,26-11-2024,C0044,Customer 44,Thane,Maharashtra,West,P014,External SSD,Electronics,1,8500,0%,Amit,UPI,8500
+O00022,09-10-2024,C0225,Customer 225,Mumbai,Maharashtra,West,P009,Desk,Furniture,1,16000,10%,Amit,UPI,14400
+O00023,10-10-2025,C0198,Customer 198,Jaipur,Rajasthan,North,P011,Notebook,Office Supplies,2,180,8%,Neha,UPI,331.2
+O00024,02-11-2025,C0207,Customer 207,Chennai,Tamil Nadu,South,P006,Mouse,Accessories,2,950,8%,Amit,UPI,1748
+O00025,24-05-2025,C0186,Customer 186,Thane,Maharashtra,West,P012,Backpack,Accessories,2,2200,8%,Vikram,UPI,4048
+O00026,02-01-2024,C0081,Customer 81,Chennai,Tamil Nadu,South,P001,Laptop,Electronics,2,55000,0%,Vikram,UPI,110000
+O00027,09-05-2024,C0129,Customer 129,Nashik,Maharashtra,West,P014,External SSD,Electronics,2,8500,5%,Sneha,UPI,16150
+O00028,02-07-2024,C0068,Customer 68,Delhi,Delhi,North,P011,Notebook,Office Supplies,1,180,8%,Karan,Credit Card,165.6
+O00029,25-05-2025,C0098,Customer 98,Surat,Gujarat,West,P006,Mouse,Accessories,1,950,10%,Priya,Credit Card,855
+O00030,21-10-2025,C0208,Customer 208,Kochi,Kerala,South,P003,Tablet,Electronics,1,18000,2%,Neha,Credit Card,17640
+O00031,03-05-2025,C0147,Customer 147,Thane,Maharashtra,West,P007,Headphones,Accessories,2,3200,5%,Neha,Net Banking,6080
+O00032,17-04-2025,C0011,Customer 11,Hyderabad,Telangana,South,P009,Desk,Furniture,1,16000,5%,Neha,UPI,15200
+O00033,25-07-2025,C0144,Customer 144,Bengaluru,Karnataka,South,P009,Desk,Furniture,1,16000,20%,Sneha,Net Banking,12800
+O00034,09-01-2024,C0037,Customer 37,Chennai,Tamil Nadu,South,P007,Headphones,Accessories,1,3200,8%,Karan,Net Banking,2944
+O00035,03-11-2025,C0152,Customer 152,Surat,Gujarat,West,P008,Office Chair,Furniture,2,12500,0%,Karan,Debit Card,25000
+O00036,14-08-2024,C0104,Customer 104,Thane,Maharashtra,West,P014,External SSD,Electronics,1,8500,15%,Amit,UPI,7225
+O00037,06-12-2025,C0128,Customer 128,Kolkata,West Bengal,East,P002,Smartphone,Electronics,2,28000,8%,Amit,UPI,51520
+O00038,03-10-2024,C0068,Customer 68,Mumbai,Maharashtra,West,P014,External SSD,Electronics,1,8500,5%,Karan,Net Banking,8075
+O00039,14-04-2025,C0145,Customer 145,Mumbai,Maharashtra,West,P012,Backpack,Accessories,1,2200,2%,Sneha,Cash,2156
+O00040,09-10-2024,C0051,Customer 51,Surat,Gujarat,West,P008,Office Chair,Furniture,1,12500,5%,Amit,Credit Card,11875
+O00041,20-10-2025,C0192,Customer 192,Mumbai,Maharashtra,West,P005,Keyboard,Accessories,2,1800,10%,Karan,UPI,3240
+O00042,15-02-2024,C0220,Customer 220,Kolkata,West Bengal,East,P013,Webcam,Electronics,4,4200,5%,Amit,Cash,15960
+O00043,29-06-2024,C0093,Customer 93,Mumbai,Maharashtra,West,P014,External SSD,Electronics,2,8500,20%,Priya,UPI,13600
+O00044,12-09-2024,C0213,Customer 213,Delhi,Delhi,North,P001,Laptop,Electronics,2,55000,5%,Neha,Net Banking,104500
+O00045,16-11-2025,C0058,Customer 58,Nashik,Maharashtra,West,P008,Office Chair,Furniture,1,12500,8%,Sneha,Credit Card,11500
+O00046,20-01-2025,C0127,Customer 127,Chennai,Tamil Nadu,South,P010,Printer,Office Supplies,1,11500,10%,Amit,Debit Card,10350
+O00047,12-11-2025,C0176,Customer 176,Delhi,Delhi,North,P013,Webcam,Electronics,3,4200,10%,Amit,Debit Card,11340
+O00048,05-02-2024,C0060,Customer 60,Bengaluru,Karnataka,South,P007,Headphones,Accessories,3,3200,8%,Karan,Credit Card,8832
+O00049,15-04-2025,C0142,Customer 142,Hyderabad,Telangana,South,P003,Tablet,Electronics,1,18000,8%,Karan,Credit Card,16560
+O00050,28-11-2025,C0086,Customer 86,Nashik,Maharashtra,West,P009,Desk,Furniture,2,16000,2%,Neha,Net Banking,31360
+O00051,23-02-2024,C0049,Customer 49,Thane,Maharashtra,West,P010,Printer,Office Supplies,2,11500,5%,Karan,Debit Card,21850
+O00052,12-04-2024,C0236,Customer 236,Hyderabad,Telangana,South,P005,Keyboard,Accessories,1,1800,0%,Priya,Credit Card,1800
+O00053,17-10-2025,C0099,Customer 99,Delhi,Delhi,North,P008,Office Chair,Furniture,5,12500,5%,Sneha,UPI,59375
+O00054,26-08-2025,C0120,Customer 120,Bhubaneswar,Odisha,East,P003,Tablet,Electronics,2,18000,2%,Neha,Cash,35280
+O00055,02-10-2025,C0023,Customer 23,Bhubaneswar,Odisha,East,P009,Desk,Furniture,1,16000,0%,Neha,UPI,16000
+O00056,24-08-2024,C0118,Customer 118,Lucknow,Uttar Pradesh,North,P008,Office Chair,Furniture,1,12500,15%,Arjun,Debit Card,10625
+O00057,03-09-2024,C0069,Customer 69,Surat,Gujarat,West,P013,Webcam,Electronics,1,4200,5%,Rahul,Debit Card,3990
+O00058,07-08-2024,C0185,Customer 185,Kochi,Kerala,South,P014,External SSD,Electronics,1,8500,0%,Sneha,Cash,8500
+O00059,18-04-2025,C0197,Customer 197,Hyderabad,Telangana,South,P010,Printer,Office Supplies,2,11500,5%,Amit,Credit Card,21850
+O00060,05-06-2025,C0101,Customer 101,Delhi,Delhi,North,P010,Printer,Office Supplies,5,11500,15%,Priya,Credit Card,48875
+O00061,30-08-2025,C0250,Customer 250,Nashik,Maharashtra,West,P010,Printer,Office Supplies,3,11500,8%,Priya,Debit Card,31740
+O00062,11-05-2025,C0080,Customer 80,Delhi,Delhi,North,P002,Smartphone,Electronics,3,28000,8%,Priya,Credit Card,77280
+O00063,28-06-2025,C0178,Customer 178,Nashik,Maharashtra,West,P012,Backpack,Accessories,2,2200,5%,Vikram,Debit Card,4180
+O00064,12-02-2024,C0065,Customer 65,Mumbai,Maharashtra,West,P008,Office Chair,Furniture,1,12500,0%,Arjun,Credit Card,12500
+O00065,27-12-2025,C0243,Customer 243,Pune,Maharashtra,West,P003,Tablet,Electronics,1,18000,2%,Neha,Debit Card,17640
+O00066,14-07-2024,C0162,Customer 162,Nashik,Maharashtra,West,P009,Desk,Furniture,2,16000,5%,Rahul,Net Banking,30400
+O00067,06-11-2025,C0164,Customer 164,Lucknow,Uttar Pradesh,North,P005,Keyboard,Accessories,1,1800,10%,Karan,Credit Card,1620
+O00068,05-04-2024,C0099,Customer 99,Thane,Maharashtra,West,P002,Smartphone,Electronics,1,28000,15%,Vikram,UPI,23800
+O00069,04-08-2024,C0183,Customer 183,Kochi,Kerala,South,P007,Headphones,Accessories,1,3200,5%,Amit,Credit Card,3040
+O00070,31-01-2025,C0112,Customer 112,Lucknow,Uttar Pradesh,North,P006,Mouse,Accessories,4,950,5%,Priya,Cash,3610
+O00071,30-03-2025,C0147,Customer 147,Hyderabad,Telangana,South,P009,Desk,Furniture,5,16000,8%,Priya,Credit Card,73600
+O00072,08-04-2024,C0111,Customer 111,Ahmedabad,Gujarat,West,P005,Keyboard,Accessories,2,1800,5%,Vikram,Debit Card,3420
+O00073,18-04-2024,C0151,Customer 151,Lucknow,Uttar Pradesh,North,P007,Headphones,Accessories,4,3200,20%,Priya,Credit Card,10240
+O00074,22-08-2024,C0133,Customer 133,Nashik,Maharashtra,West,P007,Headphones,Accessories,2,3200,20%,Amit,Debit Card,5120
+O00075,17-08-2024,C0236,Customer 236,Mumbai,Maharashtra,West,P013,Webcam,Electronics,1,4200,8%,Neha,Credit Card,3864
+O00076,31-05-2025,C0027,Customer 27,Bengaluru,Karnataka,South,P002,Smartphone,Electronics,2,28000,2%,Karan,Credit Card,54880
+O00077,18-10-2025,C0065,Customer 65,Surat,Gujarat,West,P004,Monitor,Electronics,5,14500,20%,Priya,Credit Card,58000
+O00078,30-06-2024,C0159,Customer 159,Nashik,Maharashtra,West,P013,Webcam,Electronics,2,4200,2%,Rahul,UPI,8232
+O00079,07-08-2024,C0195,Customer 195,Kochi,Kerala,South,P013,Webcam,Electronics,2,4200,10%,Karan,UPI,7560
+O00080,21-01-2025,C0105,Customer 105,Delhi,Delhi,North,P001,Laptop,Electronics,2,55000,20%,Arjun,Credit Card,88000
+O00081,26-04-2024,C0153,Customer 153,Jaipur,Rajasthan,North,P001,Laptop,Electronics,5,55000,0%,Karan,Credit Card,275000
+O00082,31-07-2024,C0047,Customer 47,Ahmedabad,Gujarat,West,P006,Mouse,Accessories,6,950,0%,Rahul,Debit Card,5700
+O00083,20-08-2024,C0185,Customer 185,Pune,Maharashtra,West,P015,USB Hub,Accessories,1,1400,2%,Amit,Debit Card,1372
+O00084,12-01-2024,C0118,Customer 118,Nashik,Maharashtra,West,P007,Headphones,Accessories,5,3200,0%,Sneha,Credit Card,16000
+O00085,01-05-2024,C0156,Customer 156,Ahmedabad,Gujarat,West,P008,Office Chair,Furniture,1,12500,5%,Neha,UPI,11875
+O00086,10-02-2024,C0028,Customer 28,Hyderabad,Telangana,South,P005,Keyboard,Accessories,1,1800,5%,Arjun,Credit Card,1710
+O00087,05-04-2025,C0161,Customer 161,Ahmedabad,Gujarat,West,P004,Monitor,Electronics,2,14500,0%,Sneha,UPI,29000
+O00088,12-09-2024,C0134,Customer 134,Pune,Maharashtra,West,P003,Tablet,Electronics,2,18000,15%,Neha,Net Banking,30600
+O00089,05-01-2024,C0242,Customer 242,Chennai,Tamil Nadu,South,P013,Webcam,Electronics,1,4200,5%,Amit,Credit Card,3990
+O00090,08-10-2024,C0239,Customer 239,Mumbai,Maharashtra,West,P011,Notebook,Office Supplies,1,180,20%,Rahul,Credit Card,144
+O00091,08-04-2024,C0161,Customer 161,Pune,Maharashtra,West,P009,Desk,Furniture,1,16000,0%,Arjun,Net Banking,16000
+O00092,06-10-2025,C0209,Customer 209,Ahmedabad,Gujarat,West,P015,USB Hub,Accessories,6,1400,5%,Vikram,Debit Card,7980
+O00093,24-05-2024,C0202,Customer 202,Bengaluru,Karnataka,South,P003,Tablet,Electronics,1,18000,2%,Amit,Cash,17640
+O00094,24-03-2025,C0205,Customer 205,Thane,Maharashtra,West,P014,External SSD,Electronics,2,8500,8%,Priya,UPI,15640
+O00095,04-11-2025,C0039,Customer 39,Bengaluru,Karnataka,South,P010,Printer,Office Supplies,2,11500,10%,Neha,Net Banking,20700
+O00096,04-02-2025,C0054,Customer 54,Hyderabad,Telangana,South,P005,Keyboard,Accessories,1,1800,0%,Arjun,Debit Card,1800
+O00097,10-03-2025,C0142,Customer 142,Pune,Maharashtra,West,P011,Notebook,Office Supplies,4,180,8%,Neha,Credit Card,662.4
+O00098,30-11-2024,C0098,Customer 98,Pune,Maharashtra,West,P014,External SSD,Electronics,1,8500,15%,Priya,Credit Card,7225
+O00099,25-06-2025,C0225,Customer 225,Jaipur,Rajasthan,North,P015,USB Hub,Accessories,2,1400,10%,Vikram,Debit Card,2520
+O00100,25-11-2024,C0138,Customer 138,Jaipur,Rajasthan,North,P001,Laptop,Electronics,2,55000,0%,Vikram,Cash,110000
+O00101,05-05-2024,C0053,Customer 53,Pune,Maharashtra,West,P013,Webcam,Electronics,2,4200,2%,Rahul,Credit Card,8232
+O00102,08-01-2025,C0151,Customer 151,Delhi,Delhi,North,P015,USB Hub,Accessories,2,1400,0%,Priya,UPI,2800
+O00103,02-04-2024,C0195,Customer 195,Nashik,Maharashtra,West,P011,Notebook,Office Supplies,5,180,8%,Rahul,UPI,828
+O00104,12-11-2025,C0005,Customer 5,Pune,Maharashtra,West,P012,Backpack,Accessories,1,2200,0%,Amit,Credit Card,2200
+O00105,29-06-2025,C0012,Customer 12,Bengaluru,Karnataka,South,P014,External SSD,Electronics,1,8500,5%,Rahul,UPI,8075
+O00106,01-08-2024,C0249,Customer 249,Bhubaneswar,Odisha,East,P009,Desk,Furniture,1,16000,15%,Arjun,Credit Card,13600
+O00107,13-09-2024,C0081,Customer 81,Bengaluru,Karnataka,South,P004,Monitor,Electronics,1,14500,8%,Priya,UPI,13340
+O00108,09-06-2025,C0127,Customer 127,Jaipur,Rajasthan,North,P006,Mouse,Accessories,2,950,5%,Karan,Debit Card,1805
+O00109,07-11-2024,C0154,Customer 154,Kolkata,West Bengal,East,P011,Notebook,Office Supplies,1,180,8%,Arjun,Credit Card,165.6
+O00110,30-09-2024,C0239,Customer 239,Hyderabad,Telangana,South,P013,Webcam,Electronics,1,4200,5%,Arjun,UPI,3990
+O00111,14-12-2025,C0119,Customer 119,Ahmedabad,Gujarat,West,P012,Backpack,Accessories,2,2200,10%,Sneha,UPI,3960
+O00112,08-06-2025,C0044,Customer 44,Lucknow,Uttar Pradesh,North,P001,Laptop,Electronics,2,55000,8%,Rahul,Debit Card,101200
+O00113,20-04-2024,C0146,Customer 146,Bhubaneswar,Odisha,East,P004,Monitor,Electronics,2,14500,5%,Karan,Credit Card,27550
+O00114,04-09-2025,C0083,Customer 83,Bengaluru,Karnataka,South,P009,Desk,Furniture,1,16000,8%,Neha,UPI,14720
+O00115,11-01-2025,C0059,Customer 59,Kochi,Kerala,South,P006,Mouse,Accessories,1,950,0%,Sneha,Credit Card,950
+O00116,21-03-2025,C0112,Customer 112,Thane,Maharashtra,West,P014,External SSD,Electronics,1,8500,0%,Arjun,Net Banking,8500
+O00117,09-02-2024,C0131,Customer 131,Nashik,Maharashtra,West,P015,USB Hub,Accessories,2,1400,20%,Sneha,Credit Card,2240
+O00118,07-10-2025,C0220,Customer 220,Chennai,Tamil Nadu,South,P004,Monitor,Electronics,5,14500,5%,Sneha,Debit Card,68875
+O00119,15-12-2025,C0185,Customer 185,Pune,Maharashtra,West,P015,USB Hub,Accessories,2,1400,2%,Priya,UPI,2744
+O00120,24-12-2025,C0154,Customer 154,Surat,Gujarat,West,P004,Monitor,Electronics,2,14500,2%,Arjun,Debit Card,28420
+O00121,18-05-2024,C0142,Customer 142,Surat,Gujarat,West,P005,Keyboard,Accessories,4,1800,5%,Rahul,UPI,6840
+O00122,17-09-2024,C0178,Customer 178,Jaipur,Rajasthan,North,P010,Printer,Office Supplies,1,11500,20%,Vikram,Debit Card,9200
+O00123,04-09-2025,C0084,Customer 84,Mumbai,Maharashtra,West,P015,USB Hub,Accessories,1,1400,0%,Arjun,Credit Card,1400
+O00124,04-04-2024,C0247,Customer 247,Nashik,Maharashtra,West,P014,External SSD,Electronics,4,8500,10%,Priya,Credit Card,30600
+O00125,16-05-2024,C0117,Customer 117,Jaipur,Rajasthan,North,P011,Notebook,Office Supplies,1,180,5%,Amit,Debit Card,171
+O00126,16-08-2024,C0150,Customer 150,Hyderabad,Telangana,South,P013,Webcam,Electronics,1,4200,0%,Vikram,UPI,4200
+O00127,13-02-2025,C0083,Customer 83,Chennai,Tamil Nadu,South,P014,External SSD,Electronics,4,8500,2%,Neha,Credit Card,33320
+O00128,07-09-2025,C0040,Customer 40,Jaipur,Rajasthan,North,P007,Headphones,Accessories,1,3200,5%,Sneha,Credit Card,3040
+O00129,26-10-2025,C0063,Customer 63,Bhubaneswar,Odisha,East,P001,Laptop,Electronics,1,55000,5%,Neha,Credit Card,52250
+O00130,08-02-2024,C0104,Customer 104,Jaipur,Rajasthan,North,P003,Tablet,Electronics,1,18000,15%,Arjun,Debit Card,15300
+O00131,14-09-2025,C0042,Customer 42,Thane,Maharashtra,West,P015,USB Hub,Accessories,2,1400,5%,Arjun,Credit Card,2660
+O00132,06-04-2024,C0157,Customer 157,Surat,Gujarat,West,P009,Desk,Furniture,2,16000,10%,Amit,UPI,28800
+O00133,31-05-2025,C0086,Customer 86,Pune,Maharashtra,West,P010,Printer,Office Supplies,4,11500,5%,Sneha,Credit Card,43700
+O00134,03-08-2024,C0047,Customer 47,Thane,Maharashtra,West,P013,Webcam,Electronics,2,4200,5%,Karan,UPI,7980
+O00135,15-11-2025,C0047,Customer 47,Thane,Maharashtra,West,P012,Backpack,Accessories,2,2200,8%,Rahul,Credit Card,4048
+O00136,09-03-2024,C0026,Customer 26,Chennai,Tamil Nadu,South,P011,Notebook,Office Supplies,3,180,15%,Karan,Credit Card,459
+O00137,11-12-2024,C0200,Customer 200,Delhi,Delhi,North,P015,USB Hub,Accessories,5,1400,0%,Vikram,UPI,7000
+O00138,14-09-2025,C0210,Customer 210,Lucknow,Uttar Pradesh,North,P001,Laptop,Electronics,2,55000,8%,Priya,Credit Card,101200
+O00139,06-05-2024,C0068,Customer 68,Ahmedabad,Gujarat,West,P008,Office Chair,Furniture,1,12500,8%,Neha,UPI,11500
+O00140,22-10-2024,C0051,Customer 51,Kochi,Kerala,South,P014,External SSD,Electronics,3,8500,15%,Amit,UPI,21675
+O00141,23-02-2025,C0149,Customer 149,Bengaluru,Karnataka,South,P014,External SSD,Electronics,1,8500,15%,Arjun,UPI,7225
+O00142,22-10-2025,C0115,Customer 115,Jaipur,Rajasthan,North,P015,USB Hub,Accessories,1,1400,10%,Neha,Net Banking,1260
+O00143,28-07-2025,C0117,Customer 117,Bengaluru,Karnataka,South,P009,Desk,Furniture,1,16000,10%,Sneha,UPI,14400
+O00144,12-12-2024,C0210,Customer 210,Chennai,Tamil Nadu,South,P002,Smartphone,Electronics,2,28000,2%,Priya,Net Banking,54880
+O00145,28-06-2024,C0182,Customer 182,Jaipur,Rajasthan,North,P009,Desk,Furniture,1,16000,15%,Amit,Debit Card,13600
+O00146,04-06-2024,C0235,Customer 235,Surat,Gujarat,West,P010,Printer,Office Supplies,1,11500,5%,Amit,Cash,10925
+O00147,07-12-2024,C0177,Customer 177,Thane,Maharashtra,West,P006,Mouse,Accessories,1,950,20%,Amit,UPI,760
+O00148,02-08-2024,C0224,Customer 224,Kochi,Kerala,South,P014,External SSD,Electronics,1,8500,10%,Sneha,UPI,7650
+O00149,21-04-2025,C0029,Customer 29,Mumbai,Maharashtra,West,P013,Webcam,Electronics,2,4200,5%,Neha,UPI,7980
+O00150,12-07-2024,C0115,Customer 115,Bhubaneswar,Odisha,East,P002,Smartphone,Electronics,2,28000,5%,Sneha,Credit Card,53200
+O00151,20-09-2024,C0063,Customer 63,Thane,Maharashtra,West,P001,Laptop,Electronics,3,55000,15%,Karan,UPI,140250
+O00152,14-01-2025,C0211,Customer 211,Kolkata,West Bengal,East,P002,Smartphone,Electronics,3,28000,20%,Karan,Debit Card,67200
+O00153,08-11-2024,C0093,Customer 93,Jaipur,Rajasthan,North,P001,Laptop,Electronics,1,55000,2%,Rahul,Credit Card,53900
+O00154,26-08-2024,C0072,Customer 72,Surat,Gujarat,West,P009,Desk,Furniture,2,16000,15%,Priya,UPI,27200
+O00155,18-03-2024,C0162,Customer 162,Nashik,Maharashtra,West,P008,Office Chair,Furniture,2,12500,10%,Karan,Credit Card,22500
+O00156,07-01-2024,C0165,Customer 165,Surat,Gujarat,West,P005,Keyboard,Accessories,2,1800,10%,Vikram,UPI,3240
+O00157,11-10-2024,C0125,Customer 125,Nashik,Maharashtra,West,P004,Monitor,Electronics,1,14500,15%,Arjun,Debit Card,12325
+O00158,20-01-2025,C0011,Customer 11,Bengaluru,Karnataka,South,P015,USB Hub,Accessories,1,1400,0%,Priya,Debit Card,1400
+O00159,13-08-2024,C0166,Customer 166,Kolkata,West Bengal,East,P009,Desk,Furniture,3,16000,2%,Neha,Debit Card,47040
+O00160,06-06-2024,C0024,Customer 24,Mumbai,Maharashtra,West,P010,Printer,Office Supplies,2,11500,15%,Karan,UPI,19550
+O00161,09-06-2025,C0114,Customer 114,Nashik,Maharashtra,West,P001,Laptop,Electronics,2,55000,8%,Amit,UPI,101200
+O00162,08-05-2025,C0246,Customer 246,Surat,Gujarat,West,P011,Notebook,Office Supplies,6,180,5%,Vikram,Debit Card,1026
+O00163,25-05-2024,C0037,Customer 37,Chennai,Tamil Nadu,South,P006,Mouse,Accessories,2,950,10%,Amit,UPI,1710
+O00164,12-01-2025,C0017,Customer 17,Ahmedabad,Gujarat,West,P009,Desk,Furniture,2,16000,0%,Sneha,UPI,32000
+O00165,31-12-2025,C0057,Customer 57,Bhubaneswar,Odisha,East,P006,Mouse,Accessories,2,950,8%,Amit,Credit Card,1748
+O00166,20-04-2025,C0138,Customer 138,Kochi,Kerala,South,P001,Laptop,Electronics,3,55000,5%,Neha,UPI,156750
+O00167,23-11-2025,C0107,Customer 107,Mumbai,Maharashtra,West,P003,Tablet,Electronics,2,18000,2%,Vikram,Net Banking,35280
+O00168,05-07-2024,C0011,Customer 11,Thane,Maharashtra,West,P001,Laptop,Electronics,1,55000,5%,Neha,Credit Card,52250
+O00169,09-03-2024,C0152,Customer 152,Surat,Gujarat,West,P006,Mouse,Accessories,2,950,2%,Arjun,UPI,1862
+O00170,21-05-2025,C0227,Customer 227,Thane,Maharashtra,West,P011,Notebook,Office Supplies,2,180,5%,Neha,Credit Card,342
+O00171,17-01-2024,C0073,Customer 73,Lucknow,Uttar Pradesh,North,P008,Office Chair,Furniture,1,12500,8%,Karan,Credit Card,11500
+O00172,12-05-2025,C0039,Customer 39,Nashik,Maharashtra,West,P003,Tablet,Electronics,3,18000,8%,Sneha,UPI,49680
+O00173,13-02-2024,C0012,Customer 12,Nashik,Maharashtra,West,P005,Keyboard,Accessories,3,1800,20%,Amit,Cash,4320
+O00174,12-01-2024,C0055,Customer 55,Mumbai,Maharashtra,West,P015,USB Hub,Accessories,2,1400,15%,Karan,Debit Card,2380
+O00175,08-01-2025,C0081,Customer 81,Delhi,Delhi,North,P005,Keyboard,Accessories,2,1800,20%,Neha,Credit Card,2880
+O00176,03-05-2025,C0143,Customer 143,Chennai,Tamil Nadu,South,P010,Printer,Office Supplies,5,11500,0%,Neha,Credit Card,57500
+O00177,26-03-2024,C0145,Customer 145,Delhi,Delhi,North,P010,Printer,Office Supplies,4,11500,0%,Vikram,Debit Card,46000
+O00178,27-12-2025,C0115,Customer 115,Jaipur,Rajasthan,North,P002,Smartphone,Electronics,3,28000,10%,Priya,Net Banking,75600
+O00179,06-09-2025,C0146,Customer 146,Chennai,Tamil Nadu,South,P010,Printer,Office Supplies,1,11500,8%,Rahul,Credit Card,10580
+O00180,19-06-2024,C0045,Customer 45,Pune,Maharashtra,West,P003,Tablet,Electronics,1,18000,8%,Priya,Credit Card,16560
+O00181,14-12-2024,C0120,Customer 120,Mumbai,Maharashtra,West,P004,Monitor,Electronics,2,14500,10%,Amit,Net Banking,26100
+O00182,25-03-2025,C0170,Customer 170,Hyderabad,Telangana,South,P014,External SSD,Electronics,1,8500,15%,Sneha,UPI,7225
+O00183,19-02-2025,C0013,Customer 13,Kochi,Kerala,South,P002,Smartphone,Electronics,4,28000,0%,Sneha,Credit Card,112000
+O00184,13-11-2024,C0190,Customer 190,Mumbai,Maharashtra,West,P013,Webcam,Electronics,2,4200,8%,Karan,UPI,7728
+O00185,24-12-2024,C0121,Customer 121,Bengaluru,Karnataka,South,P014,External SSD,Electronics,2,8500,10%,Amit,UPI,15300
+O00186,19-11-2024,C0142,Customer 142,Jaipur,Rajasthan,North,P014,External SSD,Electronics,2,8500,8%,Karan,UPI,15640
+O00187,02-02-2025,C0238,Customer 238,Bhubaneswar,Odisha,East,P009,Desk,Furniture,1,16000,8%,Priya,Cash,14720
+O00188,14-01-2025,C0037,Customer 37,Kochi,Kerala,South,P005,Keyboard,Accessories,1,1800,15%,Sneha,Debit Card,1530
+O00189,01-06-2024,C0062,Customer 62,Kochi,Kerala,South,P002,Smartphone,Electronics,2,28000,0%,Karan,Net Banking,56000
+O00190,30-08-2024,C0063,Customer 63,Surat,Gujarat,West,P005,Keyboard,Accessories,2,1800,2%,Neha,Credit Card,3528
+O00191,15-09-2024,C0169,Customer 169,Mumbai,Maharashtra,West,P010,Printer,Office Supplies,3,11500,10%,Sneha,Cash,31050
+O00192,20-01-2024,C0177,Customer 177,Lucknow,Uttar Pradesh,North,P003,Tablet,Electronics,6,18000,0%,Neha,Credit Card,108000
+O00193,03-08-2024,C0082,Customer 82,Kolkata,West Bengal,East,P001,Laptop,Electronics,4,55000,5%,Vikram,UPI,209000
+O00194,02-08-2025,C0239,Customer 239,Lucknow,Uttar Pradesh,North,P009,Desk,Furniture,2,16000,0%,Amit,Credit Card,32000
+O00195,10-10-2025,C0123,Customer 123,Hyderabad,Telangana,South,P013,Webcam,Electronics,1,4200,10%,Neha,Net Banking,3780
+O00196,29-01-2025,C0040,Customer 40,Lucknow,Uttar Pradesh,North,P005,Keyboard,Accessories,1,1800,5%,Arjun,UPI,1710
+O00197,29-03-2025,C0133,Customer 133,Bengaluru,Karnataka,South,P002,Smartphone,Electronics,5,28000,0%,Priya,UPI,140000
+O00198,27-10-2024,C0081,Customer 81,Pune,Maharashtra,West,P008,Office Chair,Furniture,2,12500,8%,Neha,Credit Card,23000
+O00199,15-10-2024,C0040,Customer 40,Pune,Maharashtra,West,P008,Office Chair,Furniture,4,12500,10%,Karan,UPI,45000
+O00200,28-12-2024,C0059,Customer 59,Chennai,Tamil Nadu,South,P009,Desk,Furniture,1,16000,15%,Priya,Debit Card,13600
+O00201,12-05-2024,C0166,Customer 166,Hyderabad,Telangana,South,P007,Headphones,Accessories,4,3200,15%,Rahul,Net Banking,10880
+O00202,12-03-2025,C0170,Customer 170,Bengaluru,Karnataka,South,P011,Notebook,Office Supplies,2,180,0%,Priya,Credit Card,360
+O00203,21-10-2024,C0077,Customer 77,Kochi,Kerala,South,P012,Backpack,Accessories,1,2200,0%,Rahul,Cash,2200
+O00204,30-11-2025,C0017,Customer 17,Jaipur,Rajasthan,North,P015,USB Hub,Accessories,1,1400,10%,Karan,UPI,1260
+O00205,20-08-2024,C0158,Customer 158,Delhi,Delhi,North,P010,Printer,Office Supplies,5,11500,5%,Priya,UPI,54625
+O00206,14-07-2024,C0037,Customer 37,Kochi,Kerala,South,P006,Mouse,Accessories,1,950,10%,Priya,UPI,855
+O00207,04-02-2025,C0017,Customer 17,Hyderabad,Telangana,South,P006,Mouse,Accessories,2,950,5%,Neha,UPI,1805
+O00208,04-12-2025,C0210,Customer 210,Pune,Maharashtra,West,P014,External SSD,Electronics,2,8500,5%,Rahul,UPI,16150
+O00209,29-01-2024,C0125,Customer 125,Hyderabad,Telangana,South,P007,Headphones,Accessories,1,3200,5%,Arjun,Net Banking,3040
+O00210,21-06-2025,C0203,Customer 203,Bengaluru,Karnataka,South,P007,Headphones,Accessories,1,3200,5%,Priya,Credit Card,3040
+O00211,27-09-2024,C0141,Customer 141,Lucknow,Uttar Pradesh,North,P007,Headphones,Accessories,3,3200,8%,Priya,Net Banking,8832
+O00212,22-01-2024,C0175,Customer 175,Kolkata,West Bengal,East,P004,Monitor,Electronics,1,14500,10%,Sneha,UPI,13050
+O00213,29-10-2024,C0092,Customer 92,Kochi,Kerala,South,P005,Keyboard,Accessories,1,1800,8%,Sneha,Debit Card,1656
+O00214,13-09-2024,C0197,Customer 197,Nashik,Maharashtra,West,P011,Notebook,Office Supplies,1,180,8%,Neha,UPI,165.6
+O00215,07-06-2025,C0064,Customer 64,Mumbai,Maharashtra,West,P009,Desk,Furniture,2,16000,5%,Rahul,Cash,30400
+O00216,27-08-2025,C0174,Customer 174,Lucknow,Uttar Pradesh,North,P001,Laptop,Electronics,3,55000,10%,Sneha,Credit Card,148500
+O00217,23-11-2025,C0199,Customer 199,Nashik,Maharashtra,West,P013,Webcam,Electronics,4,4200,20%,Priya,Debit Card,13440
+O00218,30-03-2025,C0153,Customer 153,Kolkata,West Bengal,East,P014,External SSD,Electronics,1,8500,8%,Priya,Credit Card,7820
+O00219,26-12-2025,C0176,Customer 176,Lucknow,Uttar Pradesh,North,P012,Backpack,Accessories,2,2200,2%,Karan,Credit Card,4312
+O00220,12-03-2024,C0064,Customer 64,Kochi,Kerala,South,P001,Laptop,Electronics,2,55000,8%,Neha,Credit Card,101200
+O00221,27-10-2024,C0095,Customer 95,Surat,Gujarat,West,P011,Notebook,Office Supplies,2,180,15%,Amit,UPI,306
+O00222,06-07-2025,C0214,Customer 214,Nashik,Maharashtra,West,P008,Office Chair,Furniture,1,12500,20%,Karan,UPI,10000
+O00223,21-10-2025,C0054,Customer 54,Surat,Gujarat,West,P012,Backpack,Accessories,1,2200,10%,Neha,UPI,1980
+O00224,11-08-2025,C0002,Customer 2,Mumbai,Maharashtra,West,P001,Laptop,Electronics,1,55000,5%,Neha,Cash,52250
+O00225,22-05-2024,C0090,Customer 90,Kolkata,West Bengal,East,P010,Printer,Office Supplies,1,11500,0%,Amit,Cash,11500
+O00226,09-01-2024,C0061,Customer 61,Nashik,Maharashtra,West,P011,Notebook,Office Supplies,4,180,0%,Karan,UPI,720
+O00227,20-11-2025,C0204,Customer 204,Jaipur,Rajasthan,North,P008,Office Chair,Furniture,2,12500,10%,Arjun,Net Banking,22500
+O00228,26-07-2024,C0007,Customer 7,Chennai,Tamil Nadu,South,P004,Monitor,Electronics,2,14500,10%,Neha,Credit Card,26100
+O00229,14-01-2024,C0127,Customer 127,Lucknow,Uttar Pradesh,North,P012,Backpack,Accessories,1,2200,0%,Arjun,Debit Card,2200
+O00230,01-05-2024,C0025,Customer 25,Kochi,Kerala,South,P003,Tablet,Electronics,1,18000,5%,Vikram,UPI,17100
+O00231,14-10-2024,C0119,Customer 119,Ahmedabad,Gujarat,West,P007,Headphones,Accessories,2,3200,5%,Neha,Debit Card,6080
+O00232,28-02-2024,C0037,Customer 37,Jaipur,Rajasthan,North,P009,Desk,Furniture,2,16000,0%,Rahul,UPI,32000
+O00233,18-12-2024,C0182,Customer 182,Bhubaneswar,Odisha,East,P015,USB Hub,Accessories,3,1400,0%,Vikram,Debit Card,4200
+O00234,30-05-2025,C0189,Customer 189,Jaipur,Rajasthan,North,P004,Monitor,Electronics,2,14500,10%,Priya,UPI,26100
+O00235,23-02-2025,C0177,Customer 177,Nashik,Maharashtra,West,P009,Desk,Furniture,1,16000,5%,Priya,Net Banking,15200
+O00236,21-10-2024,C0162,Customer 162,Thane,Maharashtra,West,P006,Mouse,Accessories,1,950,8%,Sneha,Credit Card,874
+O00237,05-07-2025,C0131,Customer 131,Kochi,Kerala,South,P002,Smartphone,Electronics,3,28000,2%,Neha,Debit Card,82320
+O00238,24-10-2024,C0240,Customer 240,Kolkata,West Bengal,East,P007,Headphones,Accessories,1,3200,20%,Arjun,Credit Card,2560
+O00239,13-11-2024,C0166,Customer 166,Kochi,Kerala,South,P009,Desk,Furniture,1,16000,5%,Sneha,Credit Card,15200
+O00240,24-05-2024,C0217,Customer 217,Thane,Maharashtra,West,P002,Smartphone,Electronics,1,28000,20%,Neha,Net Banking,22400
+O00241,27-02-2025,C0005,Customer 5,Bhubaneswar,Odisha,East,P001,Laptop,Electronics,2,55000,5%,Arjun,Credit Card,104500
+O00242,21-09-2025,C0139,Customer 139,Bengaluru,Karnataka,South,P003,Tablet,Electronics,1,18000,5%,Neha,Debit Card,17100
+O00243,02-10-2024,C0105,Customer 105,Mumbai,Maharashtra,West,P005,Keyboard,Accessories,2,1800,15%,Amit,UPI,3060
+O00244,16-04-2024,C0212,Customer 212,Hyderabad,Telangana,South,P009,Desk,Furniture,2,16000,8%,Vikram,Debit Card,29440
+O00245,04-06-2024,C0120,Customer 120,Hyderabad,Telangana,South,P008,Office Chair,Furniture,3,12500,5%,Rahul,UPI,35625
+O00246,25-05-2025,C0114,Customer 114,Kolkata,West Bengal,East,P002,Smartphone,Electronics,1,28000,0%,Amit,UPI,28000
+O00247,28-02-2024,C0198,Customer 198,Ahmedabad,Gujarat,West,P005,Keyboard,Accessories,1,1800,5%,Sneha,Debit Card,1710
+O00248,03-08-2024,C0020,Customer 20,Ahmedabad,Gujarat,West,P002,Smartphone,Electronics,2,28000,0%,Amit,Debit Card,56000
+O00249,02-07-2024,C0185,Customer 185,Delhi,Delhi,North,P015,USB Hub,Accessories,2,1400,5%,Priya,Credit Card,2660
+O00250,03-11-2024,C0151,Customer 151,Kolkata,West Bengal,East,P013,Webcam,Electronics,2,4200,2%,Arjun,UPI,8232
+O00251,30-10-2025,C0085,Customer 85,Mumbai,Maharashtra,West,P007,Headphones,Accessories,1,3200,10%,Sneha,UPI,2880
+O00252,05-08-2024,C0193,Customer 193,Delhi,Delhi,North,P007,Headphones,Accessories,1,3200,0%,Neha,Debit Card,3200
+O00253,10-08-2025,C0136,Customer 136,Bhubaneswar,Odisha,East,P008,Office Chair,Furniture,1,12500,10%,Priya,Debit Card,11250
+O00254,22-02-2024,C0147,Customer 147,Bhubaneswar,Odisha,East,P014,External SSD,Electronics,2,8500,8%,Sneha,Debit Card,15640
+O00255,07-08-2025,C0242,Customer 242,Surat,Gujarat,West,P015,USB Hub,Accessories,3,1400,20%,Vikram,Debit Card,3360
+O00256,19-11-2024,C0077,Customer 77,Bhubaneswar,Odisha,East,P009,Desk,Furniture,2,16000,10%,Priya,Debit Card,28800
+O00257,31-01-2025,C0198,Customer 198,Pune,Maharashtra,West,P002,Smartphone,Electronics,3,28000,5%,Rahul,Credit Card,79800
+O00258,25-12-2025,C0054,Customer 54,Delhi,Delhi,North,P009,Desk,Furniture,1,16000,5%,Arjun,Credit Card,15200
+O00259,17-04-2025,C0147,Customer 147,Hyderabad,Telangana,South,P013,Webcam,Electronics,2,4200,5%,Rahul,UPI,7980
+O00260,13-09-2025,C0218,Customer 218,Chennai,Tamil Nadu,South,P003,Tablet,Electronics,2,18000,10%,Amit,Credit Card,32400
+O00261,29-03-2025,C0026,Customer 26,Jaipur,Rajasthan,North,P002,Smartphone,Electronics,4,28000,10%,Amit,Credit Card,100800
+O00262,26-10-2024,C0226,Customer 226,Ahmedabad,Gujarat,West,P015,USB Hub,Accessories,2,1400,5%,Arjun,Net Banking,2660
+O00263,02-03-2025,C0242,Customer 242,Hyderabad,Telangana,South,P011,Notebook,Office Supplies,1,180,0%,Arjun,Net Banking,180
+O00264,15-12-2025,C0117,Customer 117,Hyderabad,Telangana,South,P015,USB Hub,Accessories,1,1400,0%,Vikram,Credit Card,1400
+O00265,07-01-2025,C0034,Customer 34,Kolkata,West Bengal,East,P013,Webcam,Electronics,1,4200,2%,Arjun,Credit Card,4116
+O00266,31-10-2025,C0136,Customer 136,Bengaluru,Karnataka,South,P004,Monitor,Electronics,2,14500,2%,Priya,Net Banking,28420
+O00267,16-12-2024,C0094,Customer 94,Chennai,Tamil Nadu,South,P007,Headphones,Accessories,3,3200,10%,Arjun,Debit Card,8640
+O00268,20-03-2025,C0056,Customer 56,Mumbai,Maharashtra,West,P010,Printer,Office Supplies,1,11500,20%,Priya,UPI,9200
+O00269,10-01-2025,C0054,Customer 54,Mumbai,Maharashtra,West,P012,Backpack,Accessories,2,2200,0%,Vikram,Debit Card,4400
+O00270,07-08-2024,C0118,Customer 118,Ahmedabad,Gujarat,West,P006,Mouse,Accessories,1,950,2%,Neha,UPI,931
+O00271,06-08-2025,C0121,Customer 121,Kochi,Kerala,South,P010,Printer,Office Supplies,2,11500,5%,Rahul,Debit Card,21850
+O00272,03-09-2025,C0050,Customer 50,Jaipur,Rajasthan,North,P003,Tablet,Electronics,1,18000,8%,Neha,Debit Card,16560
+O00273,29-08-2024,C0202,Customer 202,Mumbai,Maharashtra,West,P007,Headphones,Accessories,1,3200,2%,Priya,Net Banking,3136
+O00274,23-10-2025,C0119,Customer 119,Ahmedabad,Gujarat,West,P001,Laptop,Electronics,1,55000,8%,Priya,UPI,50600
+O00275,12-08-2025,C0011,Customer 11,Bengaluru,Karnataka,South,P009,Desk,Furniture,2,16000,0%,Amit,Cash,32000
+O00276,19-10-2025,C0035,Customer 35,Delhi,Delhi,North,P005,Keyboard,Accessories,1,1800,5%,Arjun,Debit Card,1710
+O00277,30-11-2025,C0203,Customer 203,Delhi,Delhi,North,P008,Office Chair,Furniture,3,12500,8%,Sneha,Credit Card,34500
+O00278,05-02-2024,C0167,Customer 167,Kochi,Kerala,South,P014,External SSD,Electronics,1,8500,15%,Rahul,Credit Card,7225
+O00279,28-02-2025,C0097,Customer 97,Chennai,Tamil Nadu,South,P006,Mouse,Accessories,2,950,5%,Priya,UPI,1805
+O00280,08-06-2024,C0005,Customer 5,Hyderabad,Telangana,South,P011,Notebook,Office Supplies,2,180,15%,Neha,Debit Card,306
+O00281,15-09-2024,C0044,Customer 44,Kochi,Kerala,South,P010,Printer,Office Supplies,1,11500,0%,Priya,Debit Card,11500
+O00282,15-04-2025,C0209,Customer 209,Nashik,Maharashtra,West,P002,Smartphone,Electronics,2,28000,0%,Priya,UPI,56000
+O00283,13-10-2024,C0197,Customer 197,Kochi,Kerala,South,P013,Webcam,Electronics,2,4200,0%,Neha,UPI,8400
+O00284,18-10-2025,C0121,Customer 121,Delhi,Delhi,North,P012,Backpack,Accessories,1,2200,20%,Rahul,Net Banking,1760
+O00285,18-09-2025,C0237,Customer 237,Delhi,Delhi,North,P012,Backpack,Accessories,1,2200,20%,Karan,Debit Card,1760
+O00286,28-05-2024,C0065,Customer 65,Lucknow,Uttar Pradesh,North,P014,External SSD,Electronics,1,8500,2%,Karan,Debit Card,8330
+O00287,03-07-2025,C0161,Customer 161,Ahmedabad,Gujarat,West,P012,Backpack,Accessories,1,2200,0%,Priya,UPI,2200
+O00288,26-12-2024,C0114,Customer 114,Kochi,Kerala,South,P002,Smartphone,Electronics,1,28000,15%,Amit,Credit Card,23800
+O00289,10-02-2025,C0067,Customer 67,Thane,Maharashtra,West,P014,External SSD,Electronics,5,8500,15%,Sneha,Net Banking,36125
+O00290,11-11-2024,C0171,Customer 171,Bhubaneswar,Odisha,East,P006,Mouse,Accessories,3,950,2%,Arjun,Credit Card,2793
+O00291,06-06-2024,C0166,Customer 166,Pune,Maharashtra,West,P013,Webcam,Electronics,4,4200,10%,Sneha,UPI,15120
+O00292,13-03-2024,C0007,Customer 7,Thane,Maharashtra,West,P014,External SSD,Electronics,1,8500,0%,Rahul,Debit Card,8500
+O00293,22-09-2024,C0210,Customer 210,Kolkata,West Bengal,East,P004,Monitor,Electronics,3,14500,0%,Sneha,UPI,43500
+O00294,19-04-2024,C0095,Customer 95,Kolkata,West Bengal,East,P001,Laptop,Electronics,4,55000,10%,Priya,Credit Card,198000
+O00295,14-10-2025,C0169,Customer 169,Surat,Gujarat,West,P009,Desk,Furniture,1,16000,0%,Neha,Credit Card,16000
+O00296,12-01-2024,C0079,Customer 79,Thane,Maharashtra,West,P013,Webcam,Electronics,5,4200,5%,Vikram,Net Banking,19950
+O00297,22-03-2025,C0020,Customer 20,Pune,Maharashtra,West,P013,Webcam,Electronics,2,4200,2%,Sneha,Debit Card,8232
+O00298,31-05-2025,C0151,Customer 151,Nashik,Maharashtra,West,P015,USB Hub,Accessories,3,1400,5%,Neha,Credit Card,3990
+O00299,25-02-2024,C0178,Customer 178,Kochi,Kerala,South,P015,USB Hub,Accessories,1,1400,5%,Amit,UPI,1330
+O00300,08-05-2025,C0073,Customer 73,Hyderabad,Telangana,South,P014,External SSD,Electronics,1,8500,8%,Priya,Debit Card,7820
+O00301,10-04-2024,C0004,Customer 4,Delhi,Delhi,North,P008,Office Chair,Furniture,2,12500,2%,Priya,Debit Card,24500
+O00302,03-03-2024,C0166,Customer 166,Delhi,Delhi,North,P002,Smartphone,Electronics,3,28000,5%,Karan,UPI,79800
+O00303,09-06-2025,C0007,Customer 7,Chennai,Tamil Nadu,South,P012,Backpack,Accessories,1,2200,5%,Vikram,UPI,2090
+O00304,08-02-2025,C0130,Customer 130,Kolkata,West Bengal,East,P011,Notebook,Office Supplies,1,180,2%,Neha,Debit Card,176.4
+O00305,05-03-2024,C0120,Customer 120,Delhi,Delhi,North,P005,Keyboard,Accessories,1,1800,10%,Vikram,Cash,1620
+O00306,02-11-2025,C0082,Customer 82,Ahmedabad,Gujarat,West,P013,Webcam,Electronics,2,4200,0%,Priya,Debit Card,8400
+O00307,20-09-2025,C0149,Customer 149,Thane,Maharashtra,West,P007,Headphones,Accessories,2,3200,0%,Priya,UPI,6400
+O00308,11-03-2025,C0082,Customer 82,Jaipur,Rajasthan,North,P003,Tablet,Electronics,3,18000,5%,Neha,Net Banking,51300
+O00309,27-01-2025,C0105,Customer 105,Mumbai,Maharashtra,West,P008,Office Chair,Furniture,5,12500,10%,Karan,UPI,56250
+O00310,19-08-2024,C0010,Customer 10,Pune,Maharashtra,West,P010,Printer,Office Supplies,2,11500,8%,Neha,Credit Card,21160
+O00311,19-03-2024,C0214,Customer 214,Jaipur,Rajasthan,North,P001,Laptop,Electronics,4,55000,5%,Vikram,UPI,209000
+O00312,27-03-2024,C0160,Customer 160,Hyderabad,Telangana,South,P001,Laptop,Electronics,2,55000,0%,Amit,Debit Card,110000
+O00313,11-02-2025,C0129,Customer 129,Kochi,Kerala,South,P003,Tablet,Electronics,1,18000,0%,Priya,Debit Card,18000
+O00314,15-08-2024,C0058,Customer 58,Bhubaneswar,Odisha,East,P014,External SSD,Electronics,1,8500,10%,Arjun,Debit Card,7650
+O00315,17-09-2024,C0051,Customer 51,Chennai,Tamil Nadu,South,P010,Printer,Office Supplies,2,11500,10%,Karan,UPI,20700
+O00316,02-12-2024,C0038,Customer 38,Bhubaneswar,Odisha,East,P012,Backpack,Accessories,1,2200,10%,Amit,Cash,1980
+O00317,14-07-2025,C0207,Customer 207,Pune,Maharashtra,West,P003,Tablet,Electronics,1,18000,2%,Amit,Debit Card,17640
+O00318,04-01-2025,C0122,Customer 122,Delhi,Delhi,North,P014,External SSD,Electronics,1,8500,0%,Rahul,Cash,8500
+O00319,08-06-2024,C0118,Customer 118,Kochi,Kerala,South,P005,Keyboard,Accessories,2,1800,10%,Priya,UPI,3240
+O00320,05-02-2025,C0010,Customer 10,Bhubaneswar,Odisha,East,P001,Laptop,Electronics,1,55000,5%,Rahul,Credit Card,52250
+O00321,17-02-2025,C0250,Customer 250,Lucknow,Uttar Pradesh,North,P002,Smartphone,Electronics,4,28000,8%,Rahul,Net Banking,103040
+O00322,01-05-2024,C0120,Customer 120,Ahmedabad,Gujarat,West,P003,Tablet,Electronics,3,18000,10%,Amit,UPI,48600
+O00323,31-01-2025,C0175,Customer 175,Pune,Maharashtra,West,P005,Keyboard,Accessories,1,1800,20%,Sneha,Debit Card,1440
+O00324,21-07-2024,C0135,Customer 135,Delhi,Delhi,North,P012,Backpack,Accessories,1,2200,10%,Amit,Net Banking,1980
+O00325,24-06-2025,C0029,Customer 29,Kochi,Kerala,South,P002,Smartphone,Electronics,2,28000,0%,Neha,UPI,56000
+O00326,13-02-2024,C0243,Customer 243,Delhi,Delhi,North,P008,Office Chair,Furniture,2,12500,5%,Vikram,Debit Card,23750
+O00327,19-01-2024,C0003,Customer 3,Bhubaneswar,Odisha,East,P006,Mouse,Accessories,1,950,0%,Priya,Debit Card,950
+O00328,15-05-2024,C0128,Customer 128,Ahmedabad,Gujarat,West,P015,USB Hub,Accessories,2,1400,0%,Amit,Debit Card,2800
+O00329,13-04-2024,C0003,Customer 3,Mumbai,Maharashtra,West,P004,Monitor,Electronics,1,14500,15%,Neha,UPI,12325
+O00330,18-08-2024,C0010,Customer 10,Ahmedabad,Gujarat,West,P014,External SSD,Electronics,2,8500,8%,Karan,Debit Card,15640
+O00331,21-08-2024,C0244,Customer 244,Thane,Maharashtra,West,P006,Mouse,Accessories,2,950,0%,Amit,UPI,1900
+O00332,11-01-2025,C0121,Customer 121,Pune,Maharashtra,West,P005,Keyboard,Accessories,2,1800,10%,Arjun,UPI,3240
+O00333,28-11-2025,C0056,Customer 56,Nashik,Maharashtra,West,P005,Keyboard,Accessories,1,1800,5%,Priya,Debit Card,1710
+O00334,13-04-2025,C0246,Customer 246,Nashik,Maharashtra,West,P010,Printer,Office Supplies,1,11500,0%,Neha,Debit Card,11500
+O00335,20-01-2024,C0004,Customer 4,Hyderabad,Telangana,South,P009,Desk,Furniture,1,16000,15%,Vikram,Debit Card,13600
+O00336,24-02-2024,C0216,Customer 216,Ahmedabad,Gujarat,West,P010,Printer,Office Supplies,2,11500,0%,Karan,Debit Card,23000
+O00337,06-07-2024,C0082,Customer 82,Nashik,Maharashtra,West,P015,USB Hub,Accessories,3,1400,5%,Sneha,UPI,3990
+O00338,25-06-2025,C0152,Customer 152,Kochi,Kerala,South,P012,Backpack,Accessories,6,2200,2%,Priya,Credit Card,12936
+O00339,15-12-2024,C0176,Customer 176,Kochi,Kerala,South,P004,Monitor,Electronics,1,14500,5%,Neha,Credit Card,13775
+O00340,29-10-2024,C0113,Customer 113,Chennai,Tamil Nadu,South,P012,Backpack,Accessories,6,2200,15%,Vikram,UPI,11220
+O00341,16-02-2024,C0198,Customer 198,Thane,Maharashtra,West,P004,Monitor,Electronics,1,14500,5%,Sneha,Debit Card,13775
+O00342,03-02-2025,C0103,Customer 103,Lucknow,Uttar Pradesh,North,P010,Printer,Office Supplies,1,11500,5%,Neha,UPI,10925
+O00343,10-09-2024,C0205,Customer 205,Chennai,Tamil Nadu,South,P001,Laptop,Electronics,2,55000,8%,Rahul,UPI,101200
+O00344,30-06-2025,C0245,Customer 245,Nashik,Maharashtra,West,P010,Printer,Office Supplies,1,11500,15%,Vikram,Credit Card,9775
+O00345,14-03-2024,C0212,Customer 212,Mumbai,Maharashtra,West,P005,Keyboard,Accessories,4,1800,8%,Neha,UPI,6624
+O00346,02-10-2025,C0231,Customer 231,Delhi,Delhi,North,P002,Smartphone,Electronics,3,28000,0%,Amit,UPI,84000
+O00347,22-07-2025,C0060,Customer 60,Hyderabad,Telangana,South,P012,Backpack,Accessories,2,2200,8%,Priya,UPI,4048
+O00348,17-02-2025,C0152,Customer 152,Hyderabad,Telangana,South,P010,Printer,Office Supplies,1,11500,2%,Arjun,Net Banking,11270
+O00349,09-09-2025,C0120,Customer 120,Bengaluru,Karnataka,South,P006,Mouse,Accessories,3,950,2%,Amit,Credit Card,2793
+O00350,06-09-2024,C0184,Customer 184,Chennai,Tamil Nadu,South,P004,Monitor,Electronics,2,14500,5%,Neha,Credit Card,27550
+O00351,02-02-2025,C0007,Customer 7,Surat,Gujarat,West,P015,USB Hub,Accessories,1,1400,8%,Priya,UPI,1288
+O00352,01-03-2025,C0176,Customer 176,Delhi,Delhi,North,P005,Keyboard,Accessories,3,1800,10%,Sneha,Debit Card,4860
+O00353,03-08-2025,C0058,Customer 58,Ahmedabad,Gujarat,West,P002,Smartphone,Electronics,2,28000,0%,Karan,UPI,56000
+O00354,18-01-2025,C0115,Customer 115,Lucknow,Uttar Pradesh,North,P005,Keyboard,Accessories,5,1800,0%,Amit,UPI,9000
+O00355,22-11-2024,C0196,Customer 196,Bhubaneswar,Odisha,East,P010,Printer,Office Supplies,2,11500,5%,Karan,UPI,21850
+O00356,12-02-2024,C0098,Customer 98,Hyderabad,Telangana,South,P010,Printer,Office Supplies,1,11500,8%,Amit,Debit Card,10580
+O00357,30-07-2025,C0238,Customer 238,Surat,Gujarat,West,P002,Smartphone,Electronics,1,28000,0%,Sneha,Net Banking,28000
+O00358,23-05-2024,C0066,Customer 66,Bengaluru,Karnataka,South,P002,Smartphone,Electronics,1,28000,8%,Sneha,UPI,25760
+O00359,24-07-2025,C0239,Customer 239,Jaipur,Rajasthan,North,P006,Mouse,Accessories,2,950,0%,Arjun,Credit Card,1900
+O00360,15-06-2025,C0032,Customer 32,Delhi,Delhi,North,P005,Keyboard,Accessories,2,1800,10%,Priya,Credit Card,3240
+O00361,19-03-2024,C0120,Customer 120,Jaipur,Rajasthan,North,P005,Keyboard,Accessories,4,1800,15%,Rahul,Net Banking,6120
+O00362,26-01-2024,C0168,Customer 168,Bengaluru,Karnataka,South,P012,Backpack,Accessories,2,2200,5%,Karan,Credit Card,4180
+O00363,07-07-2025,C0200,Customer 200,Hyderabad,Telangana,South,P001,Laptop,Electronics,2,55000,0%,Priya,Credit Card,110000
+O00364,09-12-2025,C0123,Customer 123,Pune,Maharashtra,West,P011,Notebook,Office Supplies,5,180,2%,Neha,UPI,882
+O00365,29-04-2025,C0220,Customer 220,Lucknow,Uttar Pradesh,North,P004,Monitor,Electronics,2,14500,10%,Arjun,UPI,26100
+O00366,07-07-2025,C0238,Customer 238,Jaipur,Rajasthan,North,P002,Smartphone,Electronics,1,28000,5%,Neha,UPI,26600
+O00367,09-10-2024,C0131,Customer 131,Kochi,Kerala,South,P003,Tablet,Electronics,1,18000,20%,Amit,Credit Card,14400
+O00368,18-11-2025,C0247,Customer 247,Jaipur,Rajasthan,North,P005,Keyboard,Accessories,1,1800,5%,Sneha,Cash,1710
+O00369,16-01-2024,C0019,Customer 19,Lucknow,Uttar Pradesh,North,P012,Backpack,Accessories,6,2200,5%,Vikram,Debit Card,12540
+O00370,11-04-2024,C0013,Customer 13,Pune,Maharashtra,West,P004,Monitor,Electronics,5,14500,8%,Karan,UPI,66700
+O00371,14-07-2024,C0025,Customer 25,Nashik,Maharashtra,West,P001,Laptop,Electronics,2,55000,15%,Sneha,Credit Card,93500
+O00372,21-04-2025,C0227,Customer 227,Kochi,Kerala,South,P012,Backpack,Accessories,1,2200,15%,Sneha,Debit Card,1870
+O00373,25-03-2025,C0172,Customer 172,Lucknow,Uttar Pradesh,North,P011,Notebook,Office Supplies,3,180,5%,Vikram,UPI,513
+O00374,20-04-2025,C0214,Customer 214,Nashik,Maharashtra,West,P012,Backpack,Accessories,2,2200,2%,Priya,Net Banking,4312
+O00375,05-11-2025,C0190,Customer 190,Mumbai,Maharashtra,West,P005,Keyboard,Accessories,1,1800,5%,Arjun,UPI,1710
+O00376,24-06-2024,C0075,Customer 75,Lucknow,Uttar Pradesh,North,P007,Headphones,Accessories,2,3200,10%,Priya,Credit Card,5760
+O00377,15-10-2024,C0015,Customer 15,Chennai,Tamil Nadu,South,P003,Tablet,Electronics,1,18000,8%,Neha,UPI,16560
+O00378,29-03-2025,C0248,Customer 248,Hyderabad,Telangana,South,P015,USB Hub,Accessories,3,1400,2%,Karan,UPI,4116
+O00379,30-05-2025,C0128,Customer 128,Bhubaneswar,Odisha,East,P003,Tablet,Electronics,3,18000,2%,Arjun,UPI,52920
+O00380,28-10-2024,C0227,Customer 227,Lucknow,Uttar Pradesh,North,P005,Keyboard,Accessories,2,1800,15%,Amit,Debit Card,3060
+O00381,25-07-2024,C0099,Customer 99,Hyderabad,Telangana,South,P013,Webcam,Electronics,1,4200,15%,Rahul,UPI,3570
+O00382,11-07-2025,C0187,Customer 187,Chennai,Tamil Nadu,South,P002,Smartphone,Electronics,2,28000,10%,Karan,UPI,50400
+O00383,21-05-2025,C0147,Customer 147,Kolkata,West Bengal,East,P015,USB Hub,Accessories,1,1400,0%,Karan,UPI,1400
+O00384,23-03-2024,C0102,Customer 102,Delhi,Delhi,North,P006,Mouse,Accessories,5,950,10%,Rahul,Net Banking,4275
+O00385,18-12-2025,C0212,Customer 212,Kochi,Kerala,South,P007,Headphones,Accessories,2,3200,2%,Arjun,Credit Card,6272
+O00386,01-02-2025,C0019,Customer 19,Bhubaneswar,Odisha,East,P004,Monitor,Electronics,1,14500,0%,Priya,UPI,14500
+O00387,10-01-2025,C0030,Customer 30,Lucknow,Uttar Pradesh,North,P001,Laptop,Electronics,1,55000,10%,Vikram,UPI,49500
+O00388,10-02-2024,C0187,Customer 187,Kolkata,West Bengal,East,P014,External SSD,Electronics,1,8500,15%,Karan,Net Banking,7225
+O00389,23-09-2025,C0125,Customer 125,Kolkata,West Bengal,East,P006,Mouse,Accessories,1,950,0%,Vikram,UPI,950
+O00390,04-02-2024,C0176,Customer 176,Kolkata,West Bengal,East,P012,Backpack,Accessories,1,2200,10%,Vikram,Credit Card,1980
+O00391,14-11-2025,C0069,Customer 69,Thane,Maharashtra,West,P005,Keyboard,Accessories,1,1800,0%,Vikram,UPI,1800
+O00392,28-12-2025,C0035,Customer 35,Mumbai,Maharashtra,West,P002,Smartphone,Electronics,5,28000,0%,Arjun,Credit Card,140000
+O00393,22-06-2024,C0076,Customer 76,Surat,Gujarat,West,P012,Backpack,Accessories,3,2200,8%,Neha,UPI,6072
+O00394,03-07-2025,C0150,Customer 150,Jaipur,Rajasthan,North,P005,Keyboard,Accessories,2,1800,8%,Priya,Debit Card,3312
+O00395,09-02-2025,C0092,Customer 92,Hyderabad,Telangana,South,P004,Monitor,Electronics,3,14500,20%,Priya,Cash,34800
+O00396,26-12-2024,C0162,Customer 162,Chennai,Tamil Nadu,South,P007,Headphones,Accessories,2,3200,8%,Sneha,Net Banking,5888
+O00397,18-09-2024,C0210,Customer 210,Mumbai,Maharashtra,West,P013,Webcam,Electronics,1,4200,0%,Priya,Credit Card,4200
+O00398,27-02-2025,C0185,Customer 185,Kochi,Kerala,South,P013,Webcam,Electronics,2,4200,5%,Priya,UPI,7980
+O00399,18-02-2024,C0141,Customer 141,Kochi,Kerala,South,P006,Mouse,Accessories,1,950,2%,Rahul,Net Banking,931
+O00400,06-12-2024,C0097,Customer 97,Bengaluru,Karnataka,South,P007,Headphones,Accessories,1,3200,2%,Neha,UPI,3136
+O00401,09-12-2024,C0126,Customer 126,Lucknow,Uttar Pradesh,North,P009,Desk,Furniture,1,16000,8%,Karan,Credit Card,14720
+O00402,10-02-2024,C0059,Customer 59,Delhi,Delhi,North,P007,Headphones,Accessories,1,3200,8%,Sneha,Cash,2944
+O00403,10-07-2025,C0077,Customer 77,Bhubaneswar,Odisha,East,P014,External SSD,Electronics,1,8500,5%,Priya,Net Banking,8075
+O00404,24-09-2024,C0189,Customer 189,Ahmedabad,Gujarat,West,P013,Webcam,Electronics,2,4200,2%,Neha,Cash,8232
+O00405,01-06-2024,C0250,Customer 250,Ahmedabad,Gujarat,West,P008,Office Chair,Furniture,2,12500,0%,Vikram,Net Banking,25000
+O00406,19-10-2025,C0177,Customer 177,Bhubaneswar,Odisha,East,P004,Monitor,Electronics,1,14500,5%,Arjun,Debit Card,13775
+O00407,15-02-2025,C0229,Customer 229,Nashik,Maharashtra,West,P015,USB Hub,Accessories,2,1400,15%,Priya,UPI,2380
+O00408,14-04-2024,C0143,Customer 143,Lucknow,Uttar Pradesh,North,P007,Headphones,Accessories,2,3200,15%,Vikram,UPI,5440
+O00409,13-12-2025,C0210,Customer 210,Nashik,Maharashtra,West,P006,Mouse,Accessories,2,950,15%,Priya,Debit Card,1615
+O00410,08-11-2025,C0117,Customer 117,Pune,Maharashtra,West,P013,Webcam,Electronics,3,4200,20%,Neha,UPI,10080
+O00411,06-11-2024,C0012,Customer 12,Nashik,Maharashtra,West,P011,Notebook,Office Supplies,2,180,0%,Vikram,Net Banking,360
+O00412,05-10-2024,C0127,Customer 127,Bhubaneswar,Odisha,East,P009,Desk,Furniture,3,16000,0%,Vikram,Debit Card,48000
+O00413,04-03-2025,C0146,Customer 146,Thane,Maharashtra,West,P003,Tablet,Electronics,1,18000,2%,Neha,Credit Card,17640
+O00414,13-07-2024,C0108,Customer 108,Pune,Maharashtra,West,P003,Tablet,Electronics,3,18000,15%,Arjun,UPI,45900
+O00415,27-04-2024,C0075,Customer 75,Bengaluru,Karnataka,South,P011,Notebook,Office Supplies,2,180,8%,Arjun,Credit Card,331.2
+O00416,14-07-2024,C0156,Customer 156,Ahmedabad,Gujarat,West,P007,Headphones,Accessories,1,3200,10%,Arjun,UPI,2880
+O00417,22-02-2025,C0157,Customer 157,Bengaluru,Karnataka,South,P012,Backpack,Accessories,1,2200,0%,Sneha,Credit Card,2200
+O00418,26-01-2025,C0113,Customer 113,Surat,Gujarat,West,P005,Keyboard,Accessories,1,1800,2%,Priya,Credit Card,1764
+O00419,09-03-2025,C0031,Customer 31,Thane,Maharashtra,West,P001,Laptop,Electronics,2,55000,0%,Rahul,Credit Card,110000
+O00420,03-06-2024,C0045,Customer 45,Thane,Maharashtra,West,P010,Printer,Office Supplies,1,11500,15%,Rahul,UPI,9775
+O00421,04-05-2024,C0050,Customer 50,Surat,Gujarat,West,P011,Notebook,Office Supplies,2,180,2%,Vikram,Net Banking,352.8
+O00422,04-02-2024,C0037,Customer 37,Bengaluru,Karnataka,South,P012,Backpack,Accessories,4,2200,8%,Priya,Credit Card,8096
+O00423,06-03-2025,C0029,Customer 29,Kochi,Kerala,South,P011,Notebook,Office Supplies,1,180,0%,Karan,UPI,180
+O00424,03-05-2025,C0068,Customer 68,Ahmedabad,Gujarat,West,P005,Keyboard,Accessories,2,1800,5%,Sneha,UPI,3420
+O00425,07-07-2025,C0087,Customer 87,Nashik,Maharashtra,West,P003,Tablet,Electronics,3,18000,8%,Neha,UPI,49680
+O00426,16-06-2025,C0174,Customer 174,Bhubaneswar,Odisha,East,P012,Backpack,Accessories,5,2200,5%,Rahul,UPI,10450
+O00427,27-04-2025,C0191,Customer 191,Jaipur,Rajasthan,North,P013,Webcam,Electronics,1,4200,10%,Priya,Credit Card,3780
+O00428,13-04-2024,C0017,Customer 17,Nashik,Maharashtra,West,P012,Backpack,Accessories,1,2200,10%,Rahul,UPI,1980
+O00429,31-05-2025,C0085,Customer 85,Jaipur,Rajasthan,North,P012,Backpack,Accessories,2,2200,5%,Rahul,UPI,4180
+O00430,23-09-2024,C0091,Customer 91,Ahmedabad,Gujarat,West,P002,Smartphone,Electronics,1,28000,5%,Sneha,UPI,26600
+O00431,31-05-2025,C0139,Customer 139,Delhi,Delhi,North,P012,Backpack,Accessories,3,2200,2%,Sneha,UPI,6468
+O00432,26-05-2024,C0070,Customer 70,Mumbai,Maharashtra,West,P003,Tablet,Electronics,2,18000,0%,Priya,Net Banking,36000
+O00433,11-04-2024,C0183,Customer 183,Bengaluru,Karnataka,South,P004,Monitor,Electronics,2,14500,5%,Arjun,Credit Card,27550
+O00434,09-04-2025,C0203,Customer 203,Lucknow,Uttar Pradesh,North,P003,Tablet,Electronics,3,18000,20%,Neha,Credit Card,43200
+O00435,30-12-2024,C0175,Customer 175,Bhubaneswar,Odisha,East,P015,USB Hub,Accessories,2,1400,20%,Karan,Net Banking,2240
+O00436,26-05-2024,C0081,Customer 81,Mumbai,Maharashtra,West,P001,Laptop,Electronics,1,55000,2%,Vikram,Credit Card,53900
+O00437,20-12-2025,C0238,Customer 238,Kochi,Kerala,South,P015,USB Hub,Accessories,2,1400,15%,Sneha,Debit Card,2380
+O00438,15-11-2024,C0054,Customer 54,Bengaluru,Karnataka,South,P010,Printer,Office Supplies,1,11500,5%,Neha,UPI,10925
+O00439,26-02-2024,C0035,Customer 35,Jaipur,Rajasthan,North,P014,External SSD,Electronics,3,8500,20%,Neha,Debit Card,20400
+O00440,25-06-2025,C0113,Customer 113,Jaipur,Rajasthan,North,P007,Headphones,Accessories,1,3200,10%,Amit,Debit Card,2880
+O00441,09-10-2025,C0143,Customer 143,Ahmedabad,Gujarat,West,P013,Webcam,Electronics,2,4200,8%,Arjun,Net Banking,7728
+O00442,13-04-2024,C0035,Customer 35,Pune,Maharashtra,West,P015,USB Hub,Accessories,1,1400,8%,Sneha,Credit Card,1288
+O00443,15-03-2024,C0158,Customer 158,Bhubaneswar,Odisha,East,P006,Mouse,Accessories,1,950,0%,Priya,Credit Card,950
+O00444,26-07-2025,C0224,Customer 224,Pune,Maharashtra,West,P013,Webcam,Electronics,1,4200,10%,Neha,UPI,3780
+O00445,14-01-2025,C0119,Customer 119,Pune,Maharashtra,West,P010,Printer,Office Supplies,2,11500,0%,Neha,Debit Card,23000
+O00446,22-05-2025,C0184,Customer 184,Bhubaneswar,Odisha,East,P015,USB Hub,Accessories,3,1400,5%,Arjun,Net Banking,3990
+O00447,21-09-2025,C0126,Customer 126,Delhi,Delhi,North,P011,Notebook,Office Supplies,1,180,5%,Amit,Credit Card,171
+O00448,16-06-2025,C0158,Customer 158,Ahmedabad,Gujarat,West,P013,Webcam,Electronics,1,4200,5%,Amit,UPI,3990
+O00449,27-06-2025,C0081,Customer 81,Delhi,Delhi,North,P007,Headphones,Accessories,1,3200,8%,Karan,Credit Card,2944
+O00450,26-06-2024,C0148,Customer 148,Pune,Maharashtra,West,P014,External SSD,Electronics,2,8500,10%,Karan,UPI,15300
+O00451,23-07-2024,C0030,Customer 30,Bhubaneswar,Odisha,East,P004,Monitor,Electronics,4,14500,8%,Priya,Credit Card,53360
+O00452,19-12-2024,C0206,Customer 206,Pune,Maharashtra,West,P002,Smartphone,Electronics,2,28000,2%,Amit,UPI,54880
+O00453,02-06-2024,C0223,Customer 223,Mumbai,Maharashtra,West,P010,Printer,Office Supplies,2,11500,8%,Amit,UPI,21160
+O00454,24-01-2025,C0050,Customer 50,Jaipur,Rajasthan,North,P009,Desk,Furniture,1,16000,10%,Vikram,Net Banking,14400
+O00455,20-10-2025,C0121,Customer 121,Mumbai,Maharashtra,West,P011,Notebook,Office Supplies,2,180,10%,Priya,Debit Card,324
+O00456,23-03-2024,C0143,Customer 143,Nashik,Maharashtra,West,P013,Webcam,Electronics,4,4200,5%,Priya,Debit Card,15960
+O00457,05-08-2024,C0145,Customer 145,Bengaluru,Karnataka,South,P007,Headphones,Accessories,2,3200,15%,Amit,Debit Card,5440
+O00458,25-12-2025,C0138,Customer 138,Bhubaneswar,Odisha,East,P007,Headphones,Accessories,2,3200,8%,Amit,UPI,5888
+O00459,06-03-2025,C0011,Customer 11,Mumbai,Maharashtra,West,P004,Monitor,Electronics,5,14500,2%,Priya,Debit Card,71050
+O00460,10-04-2024,C0140,Customer 140,Ahmedabad,Gujarat,West,P010,Printer,Office Supplies,2,11500,5%,Karan,Credit Card,21850
+O00461,14-08-2024,C0047,Customer 47,Pune,Maharashtra,West,P014,External SSD,Electronics,1,8500,0%,Amit,UPI,8500
+O00462,31-01-2024,C0229,Customer 229,Kochi,Kerala,South,P004,Monitor,Electronics,2,14500,5%,Sneha,Credit Card,27550
+O00463,09-04-2024,C0184,Customer 184,Surat,Gujarat,West,P001,Laptop,Electronics,2,55000,8%,Neha,Credit Card,101200
+O00464,30-09-2024,C0008,Customer 8,Delhi,Delhi,North,P004,Monitor,Electronics,2,14500,20%,Priya,Credit Card,23200
+O00465,05-03-2024,C0232,Customer 232,Surat,Gujarat,West,P006,Mouse,Accessories,4,950,2%,Rahul,Debit Card,3724
+O00466,11-10-2025,C0049,Customer 49,Surat,Gujarat,West,P006,Mouse,Accessories,2,950,0%,Neha,UPI,1900
+O00467,01-02-2025,C0165,Customer 165,Surat,Gujarat,West,P008,Office Chair,Furniture,1,12500,5%,Arjun,UPI,11875
+O00468,19-06-2025,C0012,Customer 12,Surat,Gujarat,West,P004,Monitor,Electronics,2,14500,15%,Neha,Credit Card,24650
+O00469,28-04-2024,C0230,Customer 230,Mumbai,Maharashtra,West,P004,Monitor,Electronics,3,14500,10%,Karan,UPI,39150
+O00470,23-11-2025,C0204,Customer 204,Chennai,Tamil Nadu,South,P006,Mouse,Accessories,1,950,5%,Amit,UPI,902.5
+O00471,26-10-2025,C0134,Customer 134,Delhi,Delhi,North,P005,Keyboard,Accessories,3,1800,5%,Priya,Debit Card,5130
+O00472,28-04-2025,C0012,Customer 12,Chennai,Tamil Nadu,South,P005,Keyboard,Accessories,2,1800,15%,Rahul,UPI,3060
+O00473,29-12-2025,C0075,Customer 75,Jaipur,Rajasthan,North,P001,Laptop,Electronics,1,55000,2%,Rahul,UPI,53900
+O00474,05-06-2024,C0195,Customer 195,Kochi,Kerala,South,P009,Desk,Furniture,1,16000,5%,Arjun,UPI,15200
+O00475,24-08-2025,C0172,Customer 172,Bengaluru,Karnataka,South,P004,Monitor,Electronics,6,14500,2%,Karan,Cash,85260
+O00476,23-06-2025,C0178,Customer 178,Chennai,Tamil Nadu,South,P015,USB Hub,Accessories,3,1400,2%,Neha,UPI,4116
+O00477,25-01-2024,C0106,Customer 106,Lucknow,Uttar Pradesh,North,P010,Printer,Office Supplies,3,11500,8%,Rahul,Cash,31740
+O00478,15-02-2025,C0200,Customer 200,Jaipur,Rajasthan,North,P004,Monitor,Electronics,2,14500,10%,Arjun,Net Banking,26100
+O00479,22-07-2025,C0216,Customer 216,Surat,Gujarat,West,P012,Backpack,Accessories,4,2200,8%,Neha,Debit Card,8096
+O00480,26-12-2024,C0114,Customer 114,Ahmedabad,Gujarat,West,P004,Monitor,Electronics,1,14500,0%,Neha,UPI,14500
+O00481,01-05-2024,C0226,Customer 226,Bhubaneswar,Odisha,East,P013,Webcam,Electronics,2,4200,0%,Sneha,Net Banking,8400
+O00482,14-12-2025,C0190,Customer 190,Pune,Maharashtra,West,P014,External SSD,Electronics,1,8500,5%,Rahul,UPI,8075
+O00483,07-05-2025,C0093,Customer 93,Jaipur,Rajasthan,North,P012,Backpack,Accessories,1,2200,10%,Karan,Cash,1980
+O00484,29-10-2025,C0050,Customer 50,Chennai,Tamil Nadu,South,P015,USB Hub,Accessories,2,1400,0%,Priya,Cash,2800
+O00485,30-03-2024,C0048,Customer 48,Jaipur,Rajasthan,North,P011,Notebook,Office Supplies,2,180,2%,Vikram,Credit Card,352.8
+O00486,02-06-2024,C0019,Customer 19,Delhi,Delhi,North,P007,Headphones,Accessories,1,3200,10%,Vikram,Net Banking,2880
+O00487,01-09-2024,C0098,Customer 98,Mumbai,Maharashtra,West,P011,Notebook,Office Supplies,5,180,20%,Karan,UPI,720
+O00488,09-05-2025,C0008,Customer 8,Kolkata,West Bengal,East,P004,Monitor,Electronics,1,14500,5%,Amit,UPI,13775
+O00489,02-04-2024,C0088,Customer 88,Pune,Maharashtra,West,P006,Mouse,Accessories,2,950,0%,Neha,Debit Card,1900
+O00490,11-09-2024,C0220,Customer 220,Hyderabad,Telangana,South,P010,Printer,Office Supplies,2,11500,2%,Priya,UPI,22540
+O00491,04-09-2025,C0055,Customer 55,Jaipur,Rajasthan,North,P011,Notebook,Office Supplies,1,180,5%,Priya,Debit Card,171
+O00492,13-03-2025,C0010,Customer 10,Thane,Maharashtra,West,P009,Desk,Furniture,1,16000,15%,Rahul,Credit Card,13600
+O00493,07-02-2025,C0089,Customer 89,Kochi,Kerala,South,P007,Headphones,Accessories,2,3200,15%,Amit,Credit Card,5440
+O00494,30-09-2024,C0090,Customer 90,Kolkata,West Bengal,East,P001,Laptop,Electronics,6,55000,5%,Vikram,Credit Card,313500
+O00495,27-02-2024,C0068,Customer 68,Mumbai,Maharashtra,West,P002,Smartphone,Electronics,4,28000,20%,Arjun,Credit Card,89600
+O00496,11-07-2024,C0203,Customer 203,Lucknow,Uttar Pradesh,North,P009,Desk,Furniture,1,16000,10%,Vikram,UPI,14400
+O00497,22-10-2025,C0068,Customer 68,Ahmedabad,Gujarat,West,P011,Notebook,Office Supplies,2,180,10%,Rahul,UPI,324
+O00498,22-11-2024,C0199,Customer 199,Bhubaneswar,Odisha,East,P007,Headphones,Accessories,3,3200,5%,Sneha,Debit Card,9120
+O00499,19-09-2025,C0106,Customer 106,Thane,Maharashtra,West,P015,USB Hub,Accessories,1,1400,2%,Karan,UPI,1372
+O00500,08-05-2025,C0103,Customer 103,Kolkata,West Bengal,East,P012,Backpack,Accessories,1,2200,0%,Arjun,Net Banking,2200
+O00501,06-10-2024,C0129,Customer 129,Nashik,Maharashtra,West,P015,USB Hub,Accessories,3,1400,0%,Priya,Debit Card,4200
+O00502,04-01-2024,C0024,Customer 24,Jaipur,Rajasthan,North,P010,Printer,Office Supplies,1,11500,15%,Arjun,UPI,9775
+O00503,03-08-2025,C0116,Customer 116,Delhi,Delhi,North,P013,Webcam,Electronics,1,4200,5%,Amit,UPI,3990
+O00504,21-11-2024,C0249,Customer 249,Hyderabad,Telangana,South,P006,Mouse,Accessories,1,950,20%,Arjun,UPI,760
+O00505,29-05-2025,C0085,Customer 85,Kochi,Kerala,South,P004,Monitor,Electronics,4,14500,0%,Priya,Cash,58000
+O00506,23-02-2025,C0038,Customer 38,Nashik,Maharashtra,West,P015,USB Hub,Accessories,2,1400,10%,Arjun,Debit Card,2520
+O00507,20-06-2025,C0030,Customer 30,Kolkata,West Bengal,East,P005,Keyboard,Accessories,1,1800,2%,Amit,Credit Card,1764
+O00508,04-07-2025,C0123,Customer 123,Bhubaneswar,Odisha,East,P006,Mouse,Accessories,1,950,10%,Sneha,Credit Card,855
+O00509,20-07-2024,C0241,Customer 241,Chennai,Tamil Nadu,South,P007,Headphones,Accessories,1,3200,2%,Sneha,Credit Card,3136
+O00510,19-05-2025,C0139,Customer 139,Bengaluru,Karnataka,South,P006,Mouse,Accessories,1,950,15%,Arjun,Debit Card,807.5
+O00511,09-07-2024,C0149,Customer 149,Ahmedabad,Gujarat,West,P006,Mouse,Accessories,2,950,5%,Amit,Credit Card,1805
+O00512,05-04-2024,C0194,Customer 194,Jaipur,Rajasthan,North,P015,USB Hub,Accessories,1,1400,10%,Arjun,Debit Card,1260
+O00513,08-11-2024,C0167,Customer 167,Kochi,Kerala,South,P014,External SSD,Electronics,1,8500,10%,Vikram,UPI,7650
+O00514,03-11-2024,C0070,Customer 70,Surat,Gujarat,West,P004,Monitor,Electronics,1,14500,0%,Amit,Debit Card,14500
+O00515,10-07-2024,C0175,Customer 175,Kochi,Kerala,South,P007,Headphones,Accessories,2,3200,5%,Arjun,Credit Card,6080
+O00516,03-01-2025,C0096,Customer 96,Thane,Maharashtra,West,P002,Smartphone,Electronics,1,28000,10%,Karan,Debit Card,25200
+O00517,01-12-2025,C0033,Customer 33,Kolkata,West Bengal,East,P002,Smartphone,Electronics,1,28000,5%,Vikram,Net Banking,26600
+O00518,16-06-2024,C0121,Customer 121,Mumbai,Maharashtra,West,P001,Laptop,Electronics,1,55000,5%,Rahul,Credit Card,52250
+O00519,27-04-2025,C0232,Customer 232,Kochi,Kerala,South,P014,External SSD,Electronics,5,8500,2%,Rahul,Net Banking,41650
+O00520,03-03-2025,C0148,Customer 148,Bhubaneswar,Odisha,East,P004,Monitor,Electronics,1,14500,15%,Rahul,Credit Card,12325
+O00521,09-01-2025,C0072,Customer 72,Delhi,Delhi,North,P014,External SSD,Electronics,2,8500,10%,Rahul,Debit Card,15300
+O00522,22-04-2024,C0244,Customer 244,Jaipur,Rajasthan,North,P012,Backpack,Accessories,1,2200,5%,Vikram,Credit Card,2090
+O00523,31-05-2025,C0145,Customer 145,Surat,Gujarat,West,P001,Laptop,Electronics,2,55000,5%,Sneha,UPI,104500
+O00524,03-05-2025,C0033,Customer 33,Kolkata,West Bengal,East,P002,Smartphone,Electronics,2,28000,5%,Neha,UPI,53200
+O00525,20-05-2024,C0167,Customer 167,Thane,Maharashtra,West,P001,Laptop,Electronics,3,55000,10%,Arjun,UPI,148500
+O00526,07-02-2025,C0147,Customer 147,Surat,Gujarat,West,P013,Webcam,Electronics,1,4200,2%,Neha,Net Banking,4116
+O00527,30-10-2025,C0136,Customer 136,Bengaluru,Karnataka,South,P014,External SSD,Electronics,5,8500,0%,Neha,UPI,42500
+O00528,22-03-2024,C0062,Customer 62,Lucknow,Uttar Pradesh,North,P005,Keyboard,Accessories,2,1800,5%,Rahul,Credit Card,3420
+O00529,07-04-2024,C0071,Customer 71,Chennai,Tamil Nadu,South,P003,Tablet,Electronics,2,18000,2%,Priya,Credit Card,35280
+O00530,14-03-2025,C0166,Customer 166,Surat,Gujarat,West,P010,Printer,Office Supplies,1,11500,0%,Sneha,UPI,11500
+O00531,17-04-2024,C0041,Customer 41,Surat,Gujarat,West,P004,Monitor,Electronics,2,14500,0%,Neha,UPI,29000
+O00532,13-05-2024,C0034,Customer 34,Surat,Gujarat,West,P003,Tablet,Electronics,1,18000,8%,Amit,Debit Card,16560
+O00533,09-04-2024,C0070,Customer 70,Lucknow,Uttar Pradesh,North,P011,Notebook,Office Supplies,1,180,0%,Priya,Net Banking,180
+O00534,19-03-2024,C0154,Customer 154,Lucknow,Uttar Pradesh,North,P010,Printer,Office Supplies,1,11500,15%,Vikram,UPI,9775
+O00535,17-02-2025,C0022,Customer 22,Thane,Maharashtra,West,P002,Smartphone,Electronics,2,28000,5%,Amit,Credit Card,53200
+O00536,12-06-2024,C0007,Customer 7,Mumbai,Maharashtra,West,P009,Desk,Furniture,4,16000,2%,Amit,Net Banking,62720
+O00537,18-10-2025,C0106,Customer 106,Surat,Gujarat,West,P006,Mouse,Accessories,2,950,10%,Neha,UPI,1710
+O00538,01-01-2025,C0085,Customer 85,Bhubaneswar,Odisha,East,P009,Desk,Furniture,1,16000,5%,Amit,Credit Card,15200
+O00539,12-02-2024,C0147,Customer 147,Jaipur,Rajasthan,North,P012,Backpack,Accessories,2,2200,2%,Priya,UPI,4312
+O00540,30-05-2024,C0039,Customer 39,Mumbai,Maharashtra,West,P005,Keyboard,Accessories,1,1800,15%,Karan,UPI,1530
+O00541,25-10-2024,C0249,Customer 249,Kolkata,West Bengal,East,P005,Keyboard,Accessories,1,1800,0%,Vikram,Credit Card,1800
+O00542,26-11-2024,C0062,Customer 62,Bengaluru,Karnataka,South,P001,Laptop,Electronics,2,55000,5%,Arjun,Net Banking,104500
+O00543,12-06-2024,C0038,Customer 38,Bhubaneswar,Odisha,East,P003,Tablet,Electronics,4,18000,5%,Sneha,Credit Card,68400
+O00544,25-08-2025,C0102,Customer 102,Mumbai,Maharashtra,West,P007,Headphones,Accessories,2,3200,0%,Neha,Credit Card,6400
+O00545,21-10-2024,C0134,Customer 134,Chennai,Tamil Nadu,South,P009,Desk,Furniture,1,16000,5%,Sneha,Net Banking,15200
+O00546,20-03-2025,C0082,Customer 82,Jaipur,Rajasthan,North,P011,Notebook,Office Supplies,4,180,8%,Sneha,Credit Card,662.4
+O00547,10-09-2025,C0164,Customer 164,Pune,Maharashtra,West,P012,Backpack,Accessories,4,2200,0%,Neha,Credit Card,8800
+O00548,23-07-2024,C0139,Customer 139,Bengaluru,Karnataka,South,P009,Desk,Furniture,1,16000,5%,Vikram,Credit Card,15200
+O00549,25-07-2024,C0088,Customer 88,Thane,Maharashtra,West,P012,Backpack,Accessories,1,2200,8%,Sneha,Debit Card,2024
+O00550,06-12-2024,C0129,Customer 129,Surat,Gujarat,West,P006,Mouse,Accessories,1,950,0%,Neha,Net Banking,950
+O00551,12-09-2025,C0242,Customer 242,Delhi,Delhi,North,P003,Tablet,Electronics,3,18000,5%,Priya,UPI,51300
+O00552,09-10-2024,C0196,Customer 196,Hyderabad,Telangana,South,P012,Backpack,Accessories,2,2200,5%,Vikram,Debit Card,4180
+O00553,01-06-2024,C0122,Customer 122,Thane,Maharashtra,West,P008,Office Chair,Furniture,3,12500,2%,Arjun,Cash,36750
+O00554,25-06-2024,C0036,Customer 36,Kolkata,West Bengal,East,P010,Printer,Office Supplies,2,11500,15%,Amit,UPI,19550
+O00555,18-04-2024,C0061,Customer 61,Lucknow,Uttar Pradesh,North,P006,Mouse,Accessories,2,950,0%,Sneha,Debit Card,1900
+O00556,15-04-2025,C0087,Customer 87,Mumbai,Maharashtra,West,P012,Backpack,Accessories,2,2200,5%,Arjun,Debit Card,4180
+O00557,21-08-2025,C0029,Customer 29,Bhubaneswar,Odisha,East,P005,Keyboard,Accessories,1,1800,8%,Arjun,Credit Card,1656
+O00558,07-09-2025,C0045,Customer 45,Mumbai,Maharashtra,West,P007,Headphones,Accessories,3,3200,5%,Priya,Credit Card,9120
+O00559,17-02-2025,C0150,Customer 150,Surat,Gujarat,West,P001,Laptop,Electronics,1,55000,0%,Neha,Net Banking,55000
+O00560,24-04-2024,C0122,Customer 122,Bengaluru,Karnataka,South,P015,USB Hub,Accessories,1,1400,5%,Priya,UPI,1330
+O00561,06-05-2024,C0167,Customer 167,Delhi,Delhi,North,P015,USB Hub,Accessories,1,1400,2%,Priya,Credit Card,1372
+O00562,23-06-2024,C0107,Customer 107,Kochi,Kerala,South,P009,Desk,Furniture,2,16000,15%,Rahul,Debit Card,27200
+O00563,19-12-2024,C0175,Customer 175,Bengaluru,Karnataka,South,P001,Laptop,Electronics,1,55000,15%,Neha,UPI,46750
+O00564,01-09-2024,C0239,Customer 239,Kochi,Kerala,South,P001,Laptop,Electronics,1,55000,5%,Karan,Cash,52250
+O00565,20-11-2024,C0017,Customer 17,Delhi,Delhi,North,P013,Webcam,Electronics,2,4200,8%,Neha,Credit Card,7728
+O00566,27-07-2025,C0053,Customer 53,Mumbai,Maharashtra,West,P001,Laptop,Electronics,3,55000,0%,Vikram,Credit Card,165000
+O00567,19-02-2025,C0029,Customer 29,Ahmedabad,Gujarat,West,P011,Notebook,Office Supplies,2,180,15%,Sneha,Debit Card,306
+O00568,02-04-2024,C0120,Customer 120,Jaipur,Rajasthan,North,P001,Laptop,Electronics,3,55000,10%,Rahul,UPI,148500
+O00569,18-12-2025,C0118,Customer 118,Lucknow,Uttar Pradesh,North,P007,Headphones,Accessories,2,3200,10%,Amit,Net Banking,5760
+O00570,25-06-2025,C0131,Customer 131,Chennai,Tamil Nadu,South,P005,Keyboard,Accessories,2,1800,0%,Karan,UPI,3600
+O00571,01-06-2025,C0224,Customer 224,Jaipur,Rajasthan,North,P006,Mouse,Accessories,1,950,5%,Priya,Net Banking,902.5
+O00572,15-11-2025,C0116,Customer 116,Lucknow,Uttar Pradesh,North,P001,Laptop,Electronics,2,55000,5%,Sneha,Credit Card,104500
+O00573,18-11-2024,C0192,Customer 192,Kochi,Kerala,South,P011,Notebook,Office Supplies,1,180,5%,Karan,Debit Card,171
+O00574,21-05-2025,C0183,Customer 183,Kolkata,West Bengal,East,P004,Monitor,Electronics,1,14500,0%,Arjun,Debit Card,14500
+O00575,02-03-2024,C0091,Customer 91,Kolkata,West Bengal,East,P011,Notebook,Office Supplies,3,180,5%,Arjun,Net Banking,513
+O00576,17-02-2024,C0061,Customer 61,Jaipur,Rajasthan,North,P015,USB Hub,Accessories,1,1400,10%,Neha,Credit Card,1260
+O00577,24-04-2025,C0112,Customer 112,Kochi,Kerala,South,P014,External SSD,Electronics,2,8500,0%,Vikram,UPI,17000
+O00578,05-08-2025,C0044,Customer 44,Kochi,Kerala,South,P011,Notebook,Office Supplies,2,180,5%,Sneha,Debit Card,342
+O00579,29-07-2025,C0145,Customer 145,Delhi,Delhi,North,P015,USB Hub,Accessories,3,1400,10%,Vikram,Debit Card,3780
+O00580,20-03-2025,C0170,Customer 170,Hyderabad,Telangana,South,P010,Printer,Office Supplies,2,11500,2%,Karan,Credit Card,22540
+O00581,20-01-2025,C0057,Customer 57,Jaipur,Rajasthan,North,P013,Webcam,Electronics,1,4200,15%,Priya,Debit Card,3570
+O00582,28-05-2025,C0080,Customer 80,Mumbai,Maharashtra,West,P010,Printer,Office Supplies,1,11500,5%,Arjun,Debit Card,10925
+O00583,19-05-2025,C0224,Customer 224,Mumbai,Maharashtra,West,P014,External SSD,Electronics,1,8500,15%,Sneha,UPI,7225
+O00584,12-01-2025,C0222,Customer 222,Kochi,Kerala,South,P012,Backpack,Accessories,1,2200,8%,Arjun,UPI,2024
+O00585,25-07-2024,C0231,Customer 231,Ahmedabad,Gujarat,West,P015,USB Hub,Accessories,3,1400,10%,Sneha,Debit Card,3780
+O00586,22-07-2024,C0250,Customer 250,Ahmedabad,Gujarat,West,P004,Monitor,Electronics,1,14500,2%,Vikram,UPI,14210
+O00587,30-08-2025,C0070,Customer 70,Kochi,Kerala,South,P005,Keyboard,Accessories,1,1800,5%,Karan,Net Banking,1710
+O00588,25-02-2024,C0176,Customer 176,Surat,Gujarat,West,P009,Desk,Furniture,1,16000,5%,Arjun,Net Banking,15200
+O00589,14-09-2024,C0104,Customer 104,Kochi,Kerala,South,P006,Mouse,Accessories,2,950,10%,Vikram,UPI,1710
+O00590,13-10-2025,C0176,Customer 176,Chennai,Tamil Nadu,South,P004,Monitor,Electronics,1,14500,10%,Karan,Debit Card,13050
+O00591,05-11-2025,C0195,Customer 195,Kochi,Kerala,South,P011,Notebook,Office Supplies,2,180,2%,Vikram,UPI,352.8
+O00592,13-05-2025,C0244,Customer 244,Chennai,Tamil Nadu,South,P011,Notebook,Office Supplies,1,180,0%,Priya,Debit Card,180
+O00593,18-02-2025,C0035,Customer 35,Surat,Gujarat,West,P006,Mouse,Accessories,2,950,8%,Karan,UPI,1748
+O00594,17-03-2025,C0183,Customer 183,Bhubaneswar,Odisha,East,P011,Notebook,Office Supplies,2,180,8%,Vikram,Credit Card,331.2
+O00595,26-07-2025,C0083,Customer 83,Lucknow,Uttar Pradesh,North,P004,Monitor,Electronics,2,14500,10%,Neha,Debit Card,26100
+O00596,17-02-2024,C0171,Customer 171,Lucknow,Uttar Pradesh,North,P004,Monitor,Electronics,2,14500,15%,Sneha,Credit Card,24650
+O00597,10-11-2024,C0028,Customer 28,Ahmedabad,Gujarat,West,P015,USB Hub,Accessories,2,1400,5%,Neha,Debit Card,2660
+O00598,08-11-2025,C0113,Customer 113,Bengaluru,Karnataka,South,P004,Monitor,Electronics,2,14500,0%,Rahul,Net Banking,29000
+O00599,22-12-2025,C0155,Customer 155,Delhi,Delhi,North,P006,Mouse,Accessories,1,950,15%,Priya,Credit Card,807.5
+O00600,30-06-2024,C0169,Customer 169,Chennai,Tamil Nadu,South,P015,USB Hub,Accessories,1,1400,0%,Karan,Net Banking,1400
+O00601,09-02-2025,C0193,Customer 193,Bhubaneswar,Odisha,East,P008,Office Chair,Furniture,2,12500,8%,Vikram,Net Banking,23000
+O00602,21-04-2024,C0178,Customer 178,Thane,Maharashtra,West,P002,Smartphone,Electronics,1,28000,0%,Arjun,Net Banking,28000
+O00603,14-06-2024,C0118,Customer 118,Thane,Maharashtra,West,P014,External SSD,Electronics,2,8500,5%,Sneha,Net Banking,16150
+O00604,13-03-2025,C0066,Customer 66,Ahmedabad,Gujarat,West,P001,Laptop,Electronics,2,55000,8%,Karan,Credit Card,101200
+O00605,22-10-2024,C0148,Customer 148,Jaipur,Rajasthan,North,P013,Webcam,Electronics,1,4200,15%,Priya,Net Banking,3570
+O00606,02-06-2025,C0144,Customer 144,Kolkata,West Bengal,East,P014,External SSD,Electronics,2,8500,20%,Karan,UPI,13600
+O00607,12-09-2024,C0181,Customer 181,Delhi,Delhi,North,P008,Office Chair,Furniture,3,12500,20%,Priya,UPI,30000
+O00608,22-09-2025,C0209,Customer 209,Bhubaneswar,Odisha,East,P015,USB Hub,Accessories,2,1400,15%,Vikram,UPI,2380
+O00609,04-11-2024,C0020,Customer 20,Hyderabad,Telangana,South,P007,Headphones,Accessories,5,3200,10%,Karan,Net Banking,14400
+O00610,06-06-2025,C0157,Customer 157,Nashik,Maharashtra,West,P014,External SSD,Electronics,3,8500,5%,Neha,UPI,24225
+O00611,28-12-2025,C0020,Customer 20,Pune,Maharashtra,West,P006,Mouse,Accessories,1,950,0%,Vikram,Credit Card,950
+O00612,06-08-2025,C0037,Customer 37,Kolkata,West Bengal,East,P009,Desk,Furniture,1,16000,2%,Karan,UPI,15680
+O00613,21-07-2025,C0192,Customer 192,Jaipur,Rajasthan,North,P013,Webcam,Electronics,1,4200,2%,Amit,Credit Card,4116
+O00614,26-03-2024,C0013,Customer 13,Thane,Maharashtra,West,P005,Keyboard,Accessories,4,1800,10%,Sneha,Net Banking,6480
+O00615,03-10-2025,C0127,Customer 127,Jaipur,Rajasthan,North,P007,Headphones,Accessories,3,3200,8%,Sneha,Net Banking,8832
+O00616,27-02-2025,C0197,Customer 197,Surat,Gujarat,West,P010,Printer,Office Supplies,1,11500,2%,Priya,UPI,11270
+O00617,05-03-2024,C0190,Customer 190,Delhi,Delhi,North,P001,Laptop,Electronics,2,55000,2%,Amit,Debit Card,107800
+O00618,29-03-2024,C0181,Customer 181,Jaipur,Rajasthan,North,P002,Smartphone,Electronics,2,28000,8%,Karan,Debit Card,51520
+O00619,17-05-2025,C0106,Customer 106,Bhubaneswar,Odisha,East,P015,USB Hub,Accessories,3,1400,20%,Amit,Net Banking,3360
+O00620,22-03-2024,C0218,Customer 218,Chennai,Tamil Nadu,South,P005,Keyboard,Accessories,2,1800,8%,Priya,Credit Card,3312
+O00621,14-08-2024,C0211,Customer 211,Hyderabad,Telangana,South,P007,Headphones,Accessories,3,3200,0%,Arjun,Credit Card,9600
+O00622,16-08-2024,C0089,Customer 89,Kolkata,West Bengal,East,P008,Office Chair,Furniture,2,12500,10%,Priya,Credit Card,22500
+O00623,04-07-2025,C0095,Customer 95,Surat,Gujarat,West,P004,Monitor,Electronics,4,14500,10%,Rahul,UPI,52200
+O00624,22-02-2024,C0166,Customer 166,Jaipur,Rajasthan,North,P012,Backpack,Accessories,1,2200,2%,Vikram,Credit Card,2156
+O00625,25-02-2025,C0208,Customer 208,Surat,Gujarat,West,P013,Webcam,Electronics,5,4200,8%,Amit,Debit Card,19320
+O00626,21-01-2025,C0032,Customer 32,Nashik,Maharashtra,West,P010,Printer,Office Supplies,4,11500,5%,Rahul,Net Banking,43700
+O00627,10-12-2024,C0069,Customer 69,Kolkata,West Bengal,East,P004,Monitor,Electronics,1,14500,2%,Vikram,Net Banking,14210
+O00628,22-01-2025,C0231,Customer 231,Bhubaneswar,Odisha,East,P006,Mouse,Accessories,1,950,15%,Neha,UPI,807.5
+O00629,25-04-2025,C0244,Customer 244,Kochi,Kerala,South,P001,Laptop,Electronics,2,55000,0%,Karan,Credit Card,110000
+O00630,05-10-2024,C0242,Customer 242,Chennai,Tamil Nadu,South,P013,Webcam,Electronics,1,4200,2%,Neha,Debit Card,4116
+O00631,11-05-2025,C0013,Customer 13,Delhi,Delhi,North,P005,Keyboard,Accessories,3,1800,8%,Arjun,Credit Card,4968
+O00632,12-10-2024,C0210,Customer 210,Bhubaneswar,Odisha,East,P001,Laptop,Electronics,6,55000,10%,Vikram,Debit Card,297000
+O00633,28-08-2025,C0082,Customer 82,Kochi,Kerala,South,P011,Notebook,Office Supplies,1,180,5%,Karan,UPI,171
+O00634,14-12-2025,C0143,Customer 143,Lucknow,Uttar Pradesh,North,P004,Monitor,Electronics,3,14500,0%,Karan,UPI,43500
+O00635,10-10-2025,C0161,Customer 161,Lucknow,Uttar Pradesh,North,P004,Monitor,Electronics,3,14500,0%,Rahul,Debit Card,43500
+O00636,19-05-2024,C0208,Customer 208,Lucknow,Uttar Pradesh,North,P015,USB Hub,Accessories,2,1400,0%,Amit,UPI,2800
+O00637,16-11-2024,C0155,Customer 155,Kolkata,West Bengal,East,P012,Backpack,Accessories,2,2200,0%,Rahul,Debit Card,4400
+O00638,25-04-2025,C0171,Customer 171,Bhubaneswar,Odisha,East,P001,Laptop,Electronics,1,55000,8%,Vikram,Net Banking,50600
+O00639,05-09-2025,C0056,Customer 56,Surat,Gujarat,West,P006,Mouse,Accessories,1,950,10%,Sneha,UPI,855
+O00640,18-05-2024,C0177,Customer 177,Nashik,Maharashtra,West,P003,Tablet,Electronics,1,18000,5%,Neha,Debit Card,17100
+O00641,29-09-2024,C0083,Customer 83,Delhi,Delhi,North,P012,Backpack,Accessories,2,2200,0%,Priya,Net Banking,4400
+O00642,31-08-2024,C0119,Customer 119,Ahmedabad,Gujarat,West,P003,Tablet,Electronics,2,18000,2%,Rahul,UPI,35280
+O00643,14-10-2024,C0013,Customer 13,Thane,Maharashtra,West,P010,Printer,Office Supplies,2,11500,5%,Priya,Cash,21850
+O00644,26-11-2025,C0186,Customer 186,Hyderabad,Telangana,South,P003,Tablet,Electronics,1,18000,2%,Neha,Cash,17640
+O00645,16-04-2025,C0097,Customer 97,Bhubaneswar,Odisha,East,P012,Backpack,Accessories,1,2200,15%,Priya,UPI,1870
+O00646,13-10-2024,C0111,Customer 111,Jaipur,Rajasthan,North,P012,Backpack,Accessories,1,2200,20%,Amit,Net Banking,1760
+O00647,24-05-2025,C0067,Customer 67,Bengaluru,Karnataka,South,P008,Office Chair,Furniture,1,12500,15%,Priya,Debit Card,10625
+O00648,31-05-2024,C0010,Customer 10,Nashik,Maharashtra,West,P003,Tablet,Electronics,3,18000,10%,Karan,Debit Card,48600
+O00649,23-11-2025,C0163,Customer 163,Hyderabad,Telangana,South,P009,Desk,Furniture,1,16000,8%,Arjun,Net Banking,14720
+O00650,11-05-2024,C0084,Customer 84,Hyderabad,Telangana,South,P007,Headphones,Accessories,1,3200,8%,Amit,Credit Card,2944
+O00651,12-01-2025,C0066,Customer 66,Kolkata,West Bengal,East,P003,Tablet,Electronics,2,18000,10%,Priya,UPI,32400
+O00652,20-10-2024,C0190,Customer 190,Kochi,Kerala,South,P001,Laptop,Electronics,2,55000,15%,Sneha,Credit Card,93500
+O00653,10-03-2024,C0046,Customer 46,Lucknow,Uttar Pradesh,North,P005,Keyboard,Accessories,4,1800,5%,Arjun,UPI,6840
+O00654,26-12-2025,C0091,Customer 91,Pune,Maharashtra,West,P005,Keyboard,Accessories,2,1800,8%,Karan,Credit Card,3312
+O00655,12-12-2025,C0089,Customer 89,Thane,Maharashtra,West,P001,Laptop,Electronics,3,55000,10%,Vikram,UPI,148500
+O00656,25-02-2024,C0181,Customer 181,Delhi,Delhi,North,P005,Keyboard,Accessories,1,1800,8%,Vikram,UPI,1656
+O00657,25-12-2024,C0240,Customer 240,Pune,Maharashtra,West,P001,Laptop,Electronics,1,55000,8%,Priya,UPI,50600
+O00658,20-03-2025,C0167,Customer 167,Bengaluru,Karnataka,South,P013,Webcam,Electronics,1,4200,5%,Sneha,UPI,3990
+O00659,26-11-2025,C0223,Customer 223,Bengaluru,Karnataka,South,P005,Keyboard,Accessories,1,1800,0%,Priya,UPI,1800
+O00660,05-07-2025,C0129,Customer 129,Delhi,Delhi,North,P006,Mouse,Accessories,6,950,8%,Amit,Credit Card,5244
+O00661,30-11-2024,C0182,Customer 182,Bengaluru,Karnataka,South,P005,Keyboard,Accessories,3,1800,5%,Vikram,Debit Card,5130
+O00662,12-06-2025,C0190,Customer 190,Bhubaneswar,Odisha,East,P001,Laptop,Electronics,2,55000,0%,Sneha,Credit Card,110000
+O00663,11-06-2024,C0078,Customer 78,Kochi,Kerala,South,P006,Mouse,Accessories,1,950,5%,Vikram,Credit Card,902.5
+O00664,18-02-2025,C0027,Customer 27,Kochi,Kerala,South,P001,Laptop,Electronics,1,55000,15%,Sneha,Debit Card,46750
+O00665,04-08-2024,C0058,Customer 58,Mumbai,Maharashtra,West,P007,Headphones,Accessories,2,3200,15%,Neha,Credit Card,5440
+O00666,25-05-2024,C0198,Customer 198,Chennai,Tamil Nadu,South,P002,Smartphone,Electronics,1,28000,15%,Sneha,UPI,23800
+O00667,02-02-2025,C0128,Customer 128,Hyderabad,Telangana,South,P007,Headphones,Accessories,2,3200,15%,Priya,Debit Card,5440
+O00668,03-09-2025,C0163,Customer 163,Nashik,Maharashtra,West,P004,Monitor,Electronics,2,14500,15%,Priya,Net Banking,24650
+O00669,22-11-2024,C0061,Customer 61,Kochi,Kerala,South,P001,Laptop,Electronics,1,55000,0%,Karan,Debit Card,55000
+O00670,07-04-2025,C0198,Customer 198,Bengaluru,Karnataka,South,P014,External SSD,Electronics,1,8500,0%,Rahul,UPI,8500
+O00671,04-03-2025,C0144,Customer 144,Kolkata,West Bengal,East,P004,Monitor,Electronics,1,14500,5%,Neha,Credit Card,13775
+O00672,19-06-2024,C0246,Customer 246,Jaipur,Rajasthan,North,P008,Office Chair,Furniture,1,12500,2%,Neha,Net Banking,12250
+O00673,12-04-2024,C0248,Customer 248,Hyderabad,Telangana,South,P003,Tablet,Electronics,2,18000,8%,Rahul,UPI,33120
+O00674,15-07-2024,C0230,Customer 230,Pune,Maharashtra,West,P002,Smartphone,Electronics,3,28000,5%,Neha,Net Banking,79800
+O00675,15-12-2024,C0173,Customer 173,Delhi,Delhi,North,P005,Keyboard,Accessories,2,1800,10%,Sneha,UPI,3240
+O00676,14-10-2024,C0093,Customer 93,Delhi,Delhi,North,P006,Mouse,Accessories,1,950,2%,Neha,Credit Card,931
+O00677,06-01-2024,C0229,Customer 229,Bengaluru,Karnataka,South,P004,Monitor,Electronics,1,14500,0%,Rahul,Net Banking,14500
+O00678,27-03-2025,C0043,Customer 43,Mumbai,Maharashtra,West,P004,Monitor,Electronics,1,14500,2%,Karan,Debit Card,14210
+O00679,11-07-2024,C0198,Customer 198,Nashik,Maharashtra,West,P006,Mouse,Accessories,1,950,10%,Rahul,Credit Card,855
+O00680,11-11-2024,C0234,Customer 234,Nashik,Maharashtra,West,P009,Desk,Furniture,1,16000,5%,Neha,UPI,15200
+O00681,14-12-2025,C0233,Customer 233,Lucknow,Uttar Pradesh,North,P007,Headphones,Accessories,2,3200,2%,Arjun,Credit Card,6272
+O00682,24-08-2024,C0215,Customer 215,Kolkata,West Bengal,East,P009,Desk,Furniture,2,16000,5%,Neha,Net Banking,30400
+O00683,28-08-2025,C0249,Customer 249,Kolkata,West Bengal,East,P010,Printer,Office Supplies,1,11500,0%,Sneha,UPI,11500
+O00684,08-04-2024,C0048,Customer 48,Pune,Maharashtra,West,P010,Printer,Office Supplies,1,11500,10%,Sneha,Cash,10350
+O00685,29-07-2025,C0247,Customer 247,Mumbai,Maharashtra,West,P014,External SSD,Electronics,1,8500,0%,Neha,UPI,8500
+O00686,13-06-2025,C0075,Customer 75,Mumbai,Maharashtra,West,P003,Tablet,Electronics,3,18000,10%,Karan,UPI,48600
+O00687,26-08-2024,C0108,Customer 108,Chennai,Tamil Nadu,South,P015,USB Hub,Accessories,1,1400,8%,Vikram,Credit Card,1288
+O00688,09-10-2024,C0246,Customer 246,Pune,Maharashtra,West,P010,Printer,Office Supplies,2,11500,10%,Arjun,Credit Card,20700
+O00689,12-01-2024,C0174,Customer 174,Bhubaneswar,Odisha,East,P008,Office Chair,Furniture,1,12500,0%,Arjun,UPI,12500
+O00690,03-06-2025,C0120,Customer 120,Thane,Maharashtra,West,P005,Keyboard,Accessories,4,1800,0%,Priya,UPI,7200
+O00691,24-10-2025,C0175,Customer 175,Hyderabad,Telangana,South,P005,Keyboard,Accessories,1,1800,10%,Vikram,Net Banking,1620
+O00692,13-07-2024,C0125,Customer 125,Ahmedabad,Gujarat,West,P013,Webcam,Electronics,2,4200,8%,Priya,UPI,7728
+O00693,27-01-2024,C0106,Customer 106,Ahmedabad,Gujarat,West,P005,Keyboard,Accessories,4,1800,5%,Amit,UPI,6840
+O00694,11-08-2024,C0164,Customer 164,Pune,Maharashtra,West,P006,Mouse,Accessories,2,950,0%,Priya,Credit Card,1900
+O00695,14-10-2025,C0019,Customer 19,Delhi,Delhi,North,P002,Smartphone,Electronics,1,28000,20%,Priya,Net Banking,22400
+O00696,03-07-2025,C0180,Customer 180,Bhubaneswar,Odisha,East,P004,Monitor,Electronics,1,14500,8%,Amit,UPI,13340
+O00697,31-05-2025,C0032,Customer 32,Thane,Maharashtra,West,P002,Smartphone,Electronics,1,28000,10%,Vikram,UPI,25200
+O00698,11-08-2025,C0068,Customer 68,Kochi,Kerala,South,P012,Backpack,Accessories,6,2200,0%,Arjun,UPI,13200
+O00699,18-01-2025,C0234,Customer 234,Kolkata,West Bengal,East,P015,USB Hub,Accessories,2,1400,5%,Arjun,UPI,2660
+O00700,17-05-2024,C0181,Customer 181,Pune,Maharashtra,West,P011,Notebook,Office Supplies,1,180,5%,Amit,Credit Card,171
+O00701,01-09-2024,C0016,Customer 16,Kolkata,West Bengal,East,P007,Headphones,Accessories,1,3200,2%,Rahul,Credit Card,3136
+O00702,01-11-2024,C0004,Customer 4,Delhi,Delhi,North,P010,Printer,Office Supplies,1,11500,5%,Rahul,Cash,10925
+O00703,29-06-2024,C0065,Customer 65,Bhubaneswar,Odisha,East,P012,Backpack,Accessories,2,2200,2%,Karan,Credit Card,4312
+O00704,22-10-2024,C0019,Customer 19,Bengaluru,Karnataka,South,P011,Notebook,Office Supplies,1,180,20%,Rahul,UPI,144
+O00705,30-06-2024,C0234,Customer 234,Chennai,Tamil Nadu,South,P001,Laptop,Electronics,2,55000,8%,Priya,UPI,101200
+O00706,05-04-2024,C0084,Customer 84,Surat,Gujarat,West,P012,Backpack,Accessories,1,2200,8%,Karan,UPI,2024
+O00707,07-07-2025,C0248,Customer 248,Lucknow,Uttar Pradesh,North,P006,Mouse,Accessories,1,950,8%,Vikram,Debit Card,874
+O00708,09-10-2024,C0212,Customer 212,Pune,Maharashtra,West,P011,Notebook,Office Supplies,2,180,5%,Neha,Credit Card,342
+O00709,10-08-2025,C0012,Customer 12,Jaipur,Rajasthan,North,P009,Desk,Furniture,1,16000,8%,Amit,UPI,14720
+O00710,31-07-2025,C0020,Customer 20,Delhi,Delhi,North,P012,Backpack,Accessories,1,2200,5%,Karan,Credit Card,2090
+O00711,18-03-2024,C0130,Customer 130,Bhubaneswar,Odisha,East,P009,Desk,Furniture,1,16000,10%,Vikram,Credit Card,14400
+O00712,13-09-2025,C0125,Customer 125,Delhi,Delhi,North,P008,Office Chair,Furniture,1,12500,8%,Sneha,Net Banking,11500
+O00713,29-03-2025,C0058,Customer 58,Hyderabad,Telangana,South,P006,Mouse,Accessories,2,950,2%,Sneha,Debit Card,1862
+O00714,29-12-2025,C0189,Customer 189,Thane,Maharashtra,West,P008,Office Chair,Furniture,1,12500,10%,Priya,Net Banking,11250
+O00715,02-05-2024,C0195,Customer 195,Delhi,Delhi,North,P013,Webcam,Electronics,1,4200,15%,Vikram,Debit Card,3570
+O00716,18-12-2025,C0206,Customer 206,Delhi,Delhi,North,P015,USB Hub,Accessories,2,1400,5%,Vikram,Net Banking,2660
+O00717,10-06-2025,C0061,Customer 61,Delhi,Delhi,North,P014,External SSD,Electronics,1,8500,10%,Arjun,Credit Card,7650
+O00718,06-01-2025,C0005,Customer 5,Kochi,Kerala,South,P011,Notebook,Office Supplies,2,180,2%,Sneha,UPI,352.8
+O00719,20-12-2024,C0097,Customer 97,Ahmedabad,Gujarat,West,P015,USB Hub,Accessories,1,1400,2%,Sneha,UPI,1372
+O00720,07-09-2024,C0032,Customer 32,Jaipur,Rajasthan,North,P013,Webcam,Electronics,3,4200,15%,Vikram,UPI,10710
+O00721,22-05-2025,C0153,Customer 153,Bhubaneswar,Odisha,East,P006,Mouse,Accessories,1,950,5%,Amit,UPI,902.5
+O00722,19-07-2025,C0087,Customer 87,Chennai,Tamil Nadu,South,P007,Headphones,Accessories,1,3200,5%,Neha,UPI,3040
+O00723,11-07-2024,C0020,Customer 20,Kolkata,West Bengal,East,P003,Tablet,Electronics,1,18000,5%,Amit,Credit Card,17100
+O00724,08-01-2024,C0157,Customer 157,Thane,Maharashtra,West,P006,Mouse,Accessories,1,950,0%,Rahul,Debit Card,950
+O00725,22-07-2024,C0197,Customer 197,Chennai,Tamil Nadu,South,P012,Backpack,Accessories,2,2200,2%,Arjun,Net Banking,4312
+O00726,15-11-2025,C0246,Customer 246,Nashik,Maharashtra,West,P006,Mouse,Accessories,3,950,8%,Amit,UPI,2622
+O00727,12-02-2024,C0052,Customer 52,Bhubaneswar,Odisha,East,P005,Keyboard,Accessories,1,1800,0%,Neha,Credit Card,1800
+O00728,25-10-2024,C0115,Customer 115,Bengaluru,Karnataka,South,P007,Headphones,Accessories,1,3200,10%,Karan,UPI,2880
+O00729,25-07-2024,C0039,Customer 39,Nashik,Maharashtra,West,P012,Backpack,Accessories,2,2200,2%,Neha,UPI,4312
+O00730,02-03-2025,C0011,Customer 11,Surat,Gujarat,West,P002,Smartphone,Electronics,1,28000,5%,Priya,UPI,26600
+O00731,19-08-2024,C0170,Customer 170,Hyderabad,Telangana,South,P001,Laptop,Electronics,2,55000,0%,Arjun,Credit Card,110000
+O00732,19-11-2024,C0011,Customer 11,Delhi,Delhi,North,P013,Webcam,Electronics,1,4200,8%,Sneha,UPI,3864
+O00733,15-02-2024,C0051,Customer 51,Ahmedabad,Gujarat,West,P005,Keyboard,Accessories,2,1800,15%,Vikram,Debit Card,3060
+O00734,25-04-2024,C0118,Customer 118,Surat,Gujarat,West,P009,Desk,Electronics,2,16000,5%,Amit,Debit Card,30400
+O00735,13-03-2025,C0122,Customer 122,Chennai,Tamil Nadu,South,P012,Backpack,Accessories,2,2200,10%,Neha,Credit Card,3960
+O00736,23-02-2024,C0111,Customer 111,Lucknow,Uttar Pradesh,North,P010,Printer,Office Supplies,2,11500,0%,Sneha,UPI,23000
+O00737,20-12-2025,C0030,Customer 30,Hyderabad,Telangana,South,P001,Laptop,Electronics,1,55000,15%,Vikram,UPI,46750
+O00738,23-12-2024,C0248,Customer 248,Lucknow,Uttar Pradesh,North,P003,Tablet,Electronics,1,18000,8%,Karan,Credit Card,16560
+O00739,04-08-2024,C0250,Customer 250,Surat,Gujarat,West,P007,Headphones,Accessories,5,3200,8%,Neha,UPI,14720
+O00740,25-01-2025,C0074,Customer 74,Bengaluru,Karnataka,South,P009,Desk,Furniture,2,16000,0%,Rahul,UPI,32000
+O00741,06-07-2024,C0001,Customer 1,Hyderabad,Telangana,South,P005,Keyboard,Accessories,1,1800,10%,Rahul,Debit Card,1620
+O00742,22-04-2025,C0004,Customer 4,Mumbai,Maharashtra,West,P007,Headphones,Accessories,1,3200,0%,Karan,UPI,3200
+O00743,26-09-2025,C0211,Customer 211,Thane,Maharashtra,West,P002,Smartphone,Electronics,2,28000,8%,Amit,Credit Card,51520
+O00744,05-07-2024,C0157,Customer 157,Nashik,Maharashtra,West,P015,USB Hub,Accessories,1,1400,8%,Arjun,Net Banking,1288
+O00745,05-10-2025,C0218,Customer 218,Delhi,Delhi,North,P009,Desk,Furniture,1,16000,2%,Neha,Debit Card,15680
+O00746,30-03-2024,C0222,Customer 222,Thane,Maharashtra,West,P002,Smartphone,Electronics,1,28000,15%,Amit,UPI,23800
+O00747,24-01-2025,C0090,Customer 90,Delhi,Delhi,North,P010,Printer,Office Supplies,2,11500,0%,Sneha,Credit Card,23000
+O00748,22-12-2024,C0146,Customer 146,Bhubaneswar,Odisha,East,P014,External SSD,Electronics,1,8500,15%,Neha,Net Banking,7225
+O00749,26-02-2025,C0118,Customer 118,Kolkata,West Bengal,East,P011,Notebook,Office Supplies,6,180,0%,Arjun,UPI,1080
+O00750,27-09-2024,C0235,Customer 235,Kolkata,West Bengal,East,P005,Keyboard,Accessories,2,1800,0%,Priya,UPI,3600
+O00751,22-12-2025,C0003,Customer 3,Delhi,Delhi,North,P011,Notebook,Office Supplies,1,180,2%,Amit,Net Banking,176.4
+O00752,02-08-2025,C0095,Customer 95,Bengaluru,Karnataka,South,P011,Notebook,Office Supplies,1,180,2%,Neha,Debit Card,176.4
+O00753,17-01-2025,C0022,Customer 22,Pune,Maharashtra,West,P012,Backpack,Accessories,2,2200,10%,Amit,UPI,3960
+O00754,09-11-2025,C0144,Customer 144,Bhubaneswar,Odisha,East,P014,External SSD,Electronics,2,8500,2%,Arjun,Credit Card,16660
+O00755,19-02-2025,C0186,Customer 186,Kochi,Kerala,South,P006,Mouse,Accessories,3,950,10%,Vikram,Credit Card,2565
+O00756,02-05-2024,C0074,Customer 74,Chennai,Tamil Nadu,South,P007,Headphones,Accessories,1,3200,0%,Priya,UPI,3200
+O00757,14-09-2025,C0035,Customer 35,Surat,Gujarat,West,P012,Backpack,Accessories,3,2200,15%,Rahul,Credit Card,5610
+O00758,23-06-2024,C0247,Customer 247,Bengaluru,Karnataka,South,P004,Monitor,Electronics,2,14500,0%,Vikram,Credit Card,29000
+O00759,10-05-2025,C0016,Customer 16,Kochi,Kerala,South,P003,Tablet,Electronics,1,18000,2%,Vikram,UPI,17640
+O00760,13-08-2024,C0015,Customer 15,Delhi,Delhi,North,P006,Mouse,Accessories,1,950,5%,Vikram,Credit Card,902.5
+O00761,12-12-2025,C0010,Customer 10,Chennai,Tamil Nadu,South,P014,External SSD,Electronics,1,8500,0%,Priya,Cash,8500
+O00762,02-01-2025,C0188,Customer 188,Bengaluru,Karnataka,South,P014,External SSD,Electronics,2,8500,0%,Arjun,Cash,17000
+O00763,25-01-2024,C0239,Customer 239,Ahmedabad,Gujarat,West,P011,Notebook,Office Supplies,1,180,5%,Sneha,UPI,171
+O00764,16-03-2025,C0059,Customer 59,Hyderabad,Telangana,South,P015,USB Hub,Accessories,1,1400,5%,Karan,Credit Card,1330
+O00765,25-04-2025,C0232,Customer 232,Thane,Maharashtra,West,P012,Backpack,Accessories,1,2200,20%,Karan,Cash,1760
+O00766,07-03-2025,C0136,Customer 136,Surat,Gujarat,West,P008,Office Chair,Furniture,1,12500,5%,Vikram,UPI,11875
+O00767,06-03-2024,C0118,Customer 118,Pune,Maharashtra,West,P015,USB Hub,Accessories,2,1400,0%,Arjun,Net Banking,2800
+O00768,20-04-2024,C0239,Customer 239,Kochi,Kerala,South,P002,Smartphone,Electronics,1,28000,10%,Rahul,UPI,25200
+O00769,08-01-2025,C0026,Customer 26,Kolkata,West Bengal,East,P014,External SSD,Electronics,2,8500,5%,Amit,Credit Card,16150
+O00770,15-03-2025,C0119,Customer 119,Surat,Gujarat,West,P007,Headphones,Accessories,3,3200,5%,Arjun,UPI,9120
+O00771,23-06-2025,C0188,Customer 188,Chennai,Tamil Nadu,South,P001,Laptop,Electronics,3,55000,10%,Amit,Cash,148500
+O00772,27-04-2025,C0099,Customer 99,Pune,Maharashtra,West,P015,USB Hub,Accessories,2,1400,8%,Sneha,Credit Card,2576
+O00773,22-02-2025,C0054,Customer 54,Surat,Gujarat,West,P012,Backpack,Accessories,1,2200,0%,Priya,Debit Card,2200
+O00774,25-03-2024,C0214,Customer 214,Ahmedabad,Gujarat,West,P010,Printer,Office Supplies,6,11500,2%,Arjun,UPI,67620
+O00775,17-12-2024,C0087,Customer 87,Chennai,Tamil Nadu,South,P011,Notebook,Office Supplies,1,180,8%,Arjun,UPI,165.6
+O00776,10-04-2025,C0149,Customer 149,Lucknow,Uttar Pradesh,North,P007,Headphones,Accessories,1,3200,10%,Rahul,Credit Card,2880
+O00777,07-10-2025,C0050,Customer 50,Thane,Maharashtra,West,P011,Notebook,Office Supplies,1,180,10%,Amit,Debit Card,162
+O00778,11-08-2025,C0090,Customer 90,Jaipur,Rajasthan,North,P013,Webcam,Electronics,1,4200,2%,Sneha,Credit Card,4116
+O00779,20-06-2025,C0145,Customer 145,Hyderabad,Telangana,South,P009,Desk,Furniture,1,16000,5%,Rahul,UPI,15200
+O00780,15-03-2024,C0038,Customer 38,Surat,Gujarat,West,P013,Webcam,Electronics,2,4200,15%,Arjun,Credit Card,7140
+O00781,25-05-2024,C0225,Customer 225,Jaipur,Rajasthan,North,P003,Tablet,Electronics,2,18000,5%,Karan,Credit Card,34200
+O00782,01-06-2024,C0190,Customer 190,Mumbai,Maharashtra,West,P004,Monitor,Electronics,1,14500,10%,Rahul,Credit Card,13050
+O00783,23-12-2025,C0144,Customer 144,Pune,Maharashtra,West,P013,Webcam,Electronics,2,4200,2%,Amit,Credit Card,8232
+O00784,14-03-2025,C0147,Customer 147,Mumbai,Maharashtra,West,P002,Smartphone,Electronics,1,28000,5%,Vikram,Credit Card,26600
+O00785,17-02-2024,C0122,Customer 122,Surat,Gujarat,West,P009,Desk,Furniture,1,16000,8%,Neha,Credit Card,14720
+O00786,22-08-2025,C0244,Customer 244,Pune,Maharashtra,West,P012,Backpack,Accessories,1,2200,10%,Arjun,Credit Card,1980
+O00787,16-05-2024,C0168,Customer 168,Lucknow,Uttar Pradesh,North,P013,Webcam,Electronics,1,4200,2%,Arjun,UPI,4116
+O00788,17-09-2024,C0052,Customer 52,Ahmedabad,Gujarat,West,P007,Headphones,Accessories,2,3200,8%,Neha,Net Banking,5888
+O00789,25-11-2024,C0004,Customer 4,Bengaluru,Karnataka,South,P013,Webcam,Electronics,1,4200,0%,Rahul,UPI,4200
+O00790,26-04-2024,C0110,Customer 110,Lucknow,Uttar Pradesh,North,P014,External SSD,Electronics,1,8500,15%,Neha,Net Banking,7225
+O00791,02-07-2025,C0120,Customer 120,Kochi,Kerala,South,P012,Backpack,Accessories,1,2200,10%,Priya,Credit Card,1980
+O00792,06-09-2025,C0246,Customer 246,Jaipur,Rajasthan,North,P012,Backpack,Accessories,5,2200,8%,Arjun,Credit Card,10120
+O00793,29-03-2024,C0218,Customer 218,Nashik,Maharashtra,West,P005,Keyboard,Accessories,1,1800,5%,Arjun,UPI,1710
+O00794,25-09-2025,C0130,Customer 130,Lucknow,Uttar Pradesh,North,P013,Webcam,Electronics,2,4200,2%,Sneha,Credit Card,8232
+O00795,10-07-2024,C0099,Customer 99,Pune,Maharashtra,West,P011,Notebook,Office Supplies,2,180,5%,Priya,UPI,342
+O00796,26-12-2024,C0111,Customer 111,Kolkata,West Bengal,East,P008,Office Chair,Furniture,1,12500,10%,Arjun,Debit Card,11250
+O00797,03-09-2025,C0014,Customer 14,Mumbai,Maharashtra,West,P003,Tablet,Electronics,1,18000,5%,Amit,Net Banking,17100
+O00798,06-08-2025,C0246,Customer 246,Jaipur,Rajasthan,North,P003,Tablet,Electronics,1,18000,8%,Rahul,Net Banking,16560
+O00799,07-01-2024,C0191,Customer 191,Kochi,Kerala,South,P013,Webcam,Electronics,3,4200,10%,Amit,Net Banking,11340
+O00800,11-10-2024,C0146,Customer 146,Delhi,Delhi,North,P006,Mouse,Accessories,1,950,0%,Sneha,Debit Card,950
+O00801,26-04-2025,C0026,Customer 26,Bhubaneswar,Odisha,East,P003,Tablet,Electronics,1,18000,0%,Vikram,UPI,18000
+O00802,02-07-2024,C0090,Customer 90,Ahmedabad,Gujarat,West,P006,Mouse,Accessories,1,950,15%,Rahul,Net Banking,807.5
+O00803,22-11-2024,C0224,Customer 224,Surat,Gujarat,West,P011,Notebook,Office Supplies,1,180,8%,Arjun,UPI,165.6
+O00804,13-01-2025,C0246,Customer 246,Thane,Maharashtra,West,P003,Tablet,Electronics,2,18000,2%,Arjun,Debit Card,35280
+O00805,20-06-2024,C0219,Customer 219,Surat,Gujarat,West,P007,Headphones,Accessories,1,3200,10%,Neha,Credit Card,2880
+O00806,13-06-2024,C0178,Customer 178,Bhubaneswar,Odisha,East,P004,Monitor,Electronics,2,14500,8%,Rahul,Debit Card,26680
+O00807,17-11-2025,C0048,Customer 48,Nashik,Maharashtra,West,P004,Monitor,Electronics,1,14500,10%,Arjun,Debit Card,13050
+O00808,24-01-2024,C0061,Customer 61,Bhubaneswar,Odisha,East,P015,USB Hub,Accessories,1,1400,8%,Sneha,Net Banking,1288
+O00809,27-01-2024,C0079,Customer 79,Bhubaneswar,Odisha,East,P006,Mouse,Accessories,2,950,8%,Karan,Debit Card,1748
+O00810,26-12-2024,C0190,Customer 190,Bhubaneswar,Odisha,East,P013,Webcam,Electronics,1,4200,20%,Vikram,UPI,3360
+O00811,01-01-2024,C0222,Customer 222,Thane,Maharashtra,West,P001,Laptop,Electronics,1,55000,2%,Sneha,UPI,53900
+O00812,21-04-2025,C0098,Customer 98,Pune,Maharashtra,West,P006,Mouse,Accessories,1,950,0%,Amit,UPI,950
+O00813,20-01-2025,C0136,Customer 136,Chennai,Tamil Nadu,South,P006,Mouse,Accessories,1,950,8%,Karan,Credit Card,874
+O00814,22-01-2024,C0084,Customer 84,Ahmedabad,Gujarat,West,P013,Webcam,Electronics,1,4200,10%,Neha,Debit Card,3780
+O00815,17-05-2025,C0171,Customer 171,Mumbai,Maharashtra,West,P010,Printer,Office Supplies,2,11500,5%,Neha,Debit Card,21850
+O00816,20-11-2024,C0081,Customer 81,Delhi,Delhi,North,P009,Desk,Furniture,1,16000,0%,Rahul,UPI,16000
+O00817,01-03-2025,C0232,Customer 232,Lucknow,Uttar Pradesh,North,P005,Keyboard,Accessories,1,1800,0%,Priya,Credit Card,1800
+O00818,14-03-2025,C0214,Customer 214,Surat,Gujarat,West,P002,Smartphone,Electronics,2,28000,10%,Amit,Debit Card,50400
+O00819,27-05-2025,C0193,Customer 193,Bhubaneswar,Odisha,East,P001,Laptop,Electronics,1,55000,5%,Neha,UPI,52250
+O00820,15-04-2024,C0059,Customer 59,Mumbai,Maharashtra,West,P012,Backpack,Accessories,1,2200,0%,Sneha,UPI,2200
+O00821,16-04-2025,C0034,Customer 34,Delhi,Delhi,North,P002,Smartphone,Electronics,1,28000,5%,Neha,Credit Card,26600
+O00822,21-10-2024,C0113,Customer 113,Ahmedabad,Gujarat,West,P011,Notebook,Office Supplies,3,180,15%,Neha,Net Banking,459
+O00823,08-12-2025,C0243,Customer 243,Kolkata,West Bengal,East,P010,Printer,Office Supplies,6,11500,5%,Neha,Credit Card,65550
+O00824,11-07-2024,C0070,Customer 70,Surat,Gujarat,West,P010,Printer,Office Supplies,4,11500,5%,Neha,UPI,43700
+O00825,04-06-2025,C0149,Customer 149,mumbai,Karnataka,South,P014,External SSD,Electronics,1,8500,5%,Rahul,UPI,8075
+O00826,14-02-2025,C0198,Customer 198,Thane,Maharashtra,West,P008,Office Chair,Furniture,1,12500,2%,Amit,UPI,12250
+O00827,23-03-2024,C0128,Customer 128,Bhubaneswar,Odisha,East,P007,Headphones,Accessories,1,3200,0%,Priya,Credit Card,3200
+O00828,03-04-2025,C0030,Customer 30,Kochi,Kerala,South,P006,Mouse,Accessories,4,950,5%,Amit,Credit Card,3610
+O00829,21-04-2024,C0193,Customer 193,Bhubaneswar,Odisha,East,P014,External SSD,Electronics,2,8500,20%,Sneha,UPI,13600
+O00830,15-03-2025,C0217,Customer 217,Bhubaneswar,Odisha,East,P014,External SSD,Electronics,1,8500,8%,Rahul,UPI,7820
+O00831,21-04-2025,C0226,Customer 226,Nashik,Maharashtra,West,P002,Smartphone,Electronics,1,28000,0%,Amit,UPI,28000
+O00832,01-03-2024,C0181,Customer 181,Hyderabad,Telangana,South,P011,Notebook,Office Supplies,2,180,2%,Priya,Debit Card,352.8
+O00833,29-11-2025,C0074,Customer 74,Chennai,Tamil Nadu,South,P001,Laptop,Electronics,4,55000,0%,Arjun,Credit Card,220000
+O00834,27-03-2025,C0162,Customer 162,Kolkata,West Bengal,East,P013,Webcam,Electronics,2,4200,5%,Karan,Debit Card,7980
+O00835,21-03-2024,C0010,Customer 10,Pune,Maharashtra,West,P013,Webcam,Electronics,2,4200,10%,Karan,Credit Card,7560
+O00836,15-05-2025,C0129,Customer 129,Surat,Gujarat,West,P015,USB Hub,Accessories,1,1400,10%,Sneha,Credit Card,1260
+O00837,05-04-2025,C0023,Customer 23,Delhi,Delhi,North,P010,Printer,Office Supplies,5,11500,15%,Neha,Debit Card,48875
+O00838,04-12-2025,C0036,Customer 36,Kochi,Kerala,South,P007,Headphones,Accessories,1,3200,8%,Neha,Debit Card,2944
+O00839,22-09-2025,C0097,Customer 97,Delhi,Delhi,North,P006,Mouse,Accessories,2,950,5%,Rahul,Debit Card,1805
+O00840,31-08-2025,C0087,Customer 87,Kochi,Kerala,South,P002,Smartphone,Electronics,4,28000,15%,Rahul,Net Banking,95200
+O00841,08-09-2025,C0031,Customer 31,Pune,Maharashtra,West,P011,Notebook,Office Supplies,1,180,2%,Karan,Net Banking,176.4
+O00842,13-08-2024,C0010,Customer 10,Delhi,Delhi,North,P010,Printer,Office Supplies,2,11500,5%,Priya,UPI,21850
+O00843,12-11-2025,C0074,Customer 74,Nashik,Maharashtra,West,P015,USB Hub,Accessories,2,1400,15%,Karan,Debit Card,2380
+O00844,10-10-2024,C0015,Customer 15,Kolkata,West Bengal,East,P011,Notebook,Office Supplies,1,180,5%,Neha,Credit Card,171
+O00845,17-07-2024,C0127,Customer 127,Thane,Maharashtra,West,P002,Smartphone,Electronics,1,28000,0%,Priya,UPI,28000
+O00846,15-12-2025,C0191,Customer 191,Bengaluru,Karnataka,South,P001,Laptop,Electronics,1,55000,8%,Rahul,UPI,50600
+O00847,27-02-2025,C0041,Customer 41,Kochi,Kerala,South,P008,Office Chair,Furniture,1,12500,5%,Karan,Net Banking,11875
+O00848,13-11-2024,C0130,Customer 130,Lucknow,Uttar Pradesh,North,P012,Backpack,Accessories,3,2200,5%,Amit,UPI,6270
+O00849,15-12-2025,C0112,Customer 112,Kolkata,West Bengal,East,P008,Office Chair,Furniture,1,12500,5%,Vikram,Credit Card,11875
+O00850,07-07-2025,C0109,Customer 109,Mumbai,Maharashtra,West,P002,Smartphone,Electronics,1,28000,15%,Neha,UPI,23800
+O00851,11-05-2024,C0014,Customer 14,Mumbai,Maharashtra,West,P013,Webcam,Electronics,5,4200,10%,Karan,Credit Card,18900
+O00852,19-03-2024,C0108,Customer 108,Lucknow,Uttar Pradesh,North,P013,Webcam,Electronics,2,4200,2%,Arjun,Debit Card,8232
+O00853,02-06-2024,C0180,Customer 180,Bengaluru,Karnataka,South,P009,Desk,Furniture,1,16000,20%,Neha,Net Banking,12800
+O00854,29-09-2024,C0131,Customer 131,Pune,Maharashtra,West,P001,Laptop,Electronics,1,55000,5%,Karan,UPI,52250
+O00855,27-10-2025,C0107,Customer 107,Mumbai,Maharashtra,West,P007,Headphones,Accessories,1,3200,10%,Vikram,Debit Card,2880
+O00856,11-02-2025,C0046,Customer 46,Kolkata,West Bengal,East,P004,Monitor,Electronics,3,14500,5%,Amit,UPI,41325
+O00857,05-06-2024,C0118,Customer 118,Bengaluru,Karnataka,South,P008,Office Chair,Furniture,2,12500,8%,Priya,UPI,23000
+O00858,27-10-2025,C0233,Customer 233,Kolkata,West Bengal,East,P011,Notebook,Office Supplies,1,180,2%,Neha,UPI,176.4
+O00859,11-03-2025,C0212,Customer 212,Bhubaneswar,Odisha,East,P003,Tablet,Electronics,2,18000,5%,Neha,Credit Card,34200
+O00860,30-12-2025,C0030,Customer 30,Mumbai,Maharashtra,West,P012,Backpack,Accessories,2,2200,8%,Karan,Debit Card,4048
+O00861,31-07-2025,C0236,Customer 236,Bengaluru,Karnataka,South,P005,Keyboard,Accessories,1,1800,5%,Vikram,Debit Card,1710
+O00862,18-08-2025,C0048,Customer 48,Hyderabad,Telangana,South,P002,Smartphone,Electronics,3,28000,15%,Arjun,Debit Card,71400
+O00863,04-12-2024,C0066,Customer 66,Thane,Maharashtra,West,P014,External SSD,Electronics,1,8500,8%,Sneha,Credit Card,7820
+O00864,07-06-2025,C0100,Customer 100,Surat,Gujarat,West,P002,Smartphone,Electronics,3,28000,8%,Vikram,Credit Card,77280
+O00865,24-03-2024,C0071,Customer 71,Nashik,Maharashtra,West,P006,Mouse,Accessories,3,950,0%,Karan,Credit Card,2850
+O00866,10-07-2024,C0069,Customer 69,Chennai,Tamil Nadu,South,P015,USB Hub,Accessories,3,1400,10%,Vikram,Credit Card,3780
+O00867,12-06-2025,C0015,Customer 15,Nashik,Maharashtra,West,P013,Webcam,Electronics,2,4200,10%,Amit,Credit Card,7560
+O00868,30-06-2025,C0072,Customer 72,Bengaluru,Karnataka,South,P008,Office Chair,Furniture,1,12500,2%,Neha,Net Banking,12250
+O00869,29-06-2025,C0108,Customer 108,Delhi,Delhi,North,P014,External SSD,Electronics,1,8500,8%,Amit,Debit Card,7820
+O00870,30-05-2025,C0223,Customer 223,Nashik,Maharashtra,West,P001,Laptop,Electronics,1,55000,8%,Vikram,Debit Card,50600
+O00871,19-01-2024,C0132,Customer 132,Pune,Maharashtra,West,P005,Keyboard,Accessories,4,1800,10%,Neha,UPI,6480
+O00872,22-03-2025,C0125,Customer 125,Nashik,Maharashtra,West,P011,Notebook,Office Supplies,1,180,2%,Neha,Credit Card,176.4
+O00873,05-06-2025,C0139,Customer 139,Hyderabad,Telangana,South,P005,Keyboard,Accessories,3,1800,2%,Priya,UPI,5292
+O00874,13-03-2025,C0204,Customer 204,Kochi,Kerala,South,P014,External SSD,Electronics,2,8500,10%,Priya,UPI,15300
+O00875,14-05-2024,C0167,Customer 167,Thane,Maharashtra,West,P008,Office Chair,Furniture,1,12500,8%,Sneha,UPI,11500
+O00876,09-01-2025,C0044,Customer 44,Surat,Gujarat,West,P012,Backpack,Accessories,1,2200,0%,Rahul,Debit Card,2200
+O00877,29-04-2024,C0152,Customer 152,Nashik,Maharashtra,West,P010,Printer,Office Supplies,5,11500,5%,Vikram,UPI,54625
+O00878,18-03-2025,C0039,Customer 39,Jaipur,Rajasthan,North,P001,Laptop,Electronics,3,55000,10%,Priya,Net Banking,148500
+O00879,08-08-2025,C0048,Customer 48,Bengaluru,Karnataka,South,P011,Notebook,Office Supplies,2,180,10%,Karan,Cash,324
+O00880,26-02-2024,C0025,Customer 25,Chennai,Tamil Nadu,South,P007,Headphones,Accessories,1,3200,10%,Vikram,Debit Card,2880
+O00881,31-07-2024,C0199,Customer 199,Jaipur,Rajasthan,North,P001,Laptop,Electronics,1,55000,0%,Vikram,UPI,55000
+O00882,05-02-2025,C0035,Customer 35,Nashik,Maharashtra,West,P002,Smartphone,Electronics,1,28000,2%,Vikram,Net Banking,27440
+O00883,11-03-2025,C0053,Customer 53,Bengaluru,Karnataka,South,P007,Headphones,Accessories,6,3200,10%,Neha,Net Banking,17280
+O00884,23-08-2025,C0175,Customer 175,Kochi,Kerala,South,P008,Office Chair,Furniture,1,12500,8%,Vikram,UPI,11500
+O00885,05-11-2024,C0186,Customer 186,Delhi,Delhi,North,P011,Notebook,Office Supplies,1,180,0%,Neha,UPI,180
+O00886,21-04-2024,C0136,Customer 136,Pune,Maharashtra,West,P009,Desk,Furniture,2,16000,5%,Vikram,UPI,30400
+O00887,28-11-2025,C0003,Customer 3,Bengaluru,Karnataka,South,P008,Office Chair,Furniture,2,12500,0%,Rahul,Debit Card,25000
+O00888,14-09-2024,C0082,Customer 82,Kochi,Kerala,South,P005,Keyboard,Accessories,1,1800,5%,Neha,Credit Card,1710
+O00889,10-09-2024,C0016,Customer 16,Delhi,Delhi,North,P008,Office Chair,Furniture,2,12500,5%,Vikram,Credit Card,23750
+O00890,17-06-2024,C0203,Customer 203,Bengaluru,Karnataka,South,P004,Monitor,Electronics,1,14500,2%,Neha,Credit Card,14210
+O00891,19-02-2025,C0007,Customer 7,Jaipur,Rajasthan,North,P012,Backpack,Accessories,1,2200,8%,Priya,Debit Card,2024
+O00892,11-09-2025,C0065,Customer 65,Thane,Maharashtra,West,P011,Notebook,Office Supplies,2,180,0%,Vikram,Credit Card,360
+O00893,06-08-2024,C0237,Customer 237,Kochi,Kerala,South,P001,Laptop,Electronics,3,55000,2%,Rahul,UPI,161700
+O00894,07-09-2025,C0189,Customer 189,Bhubaneswar,Odisha,East,P004,Monitor,Electronics,2,14500,0%,Amit,UPI,29000
+O00895,04-06-2025,C0090,Customer 90,Ahmedabad,Gujarat,West,P001,Laptop,Electronics,2,55000,15%,Sneha,Debit Card,93500
+O00896,13-08-2024,C0099,Customer 99,Ahmedabad,Gujarat,West,P002,Smartphone,Electronics,2,28000,15%,Karan,Net Banking,47600
+O00897,29-06-2024,C0075,Customer 75,Bengaluru,Karnataka,South,P006,Mouse,Accessories,1,950,8%,Karan,Net Banking,874
+O00898,11-01-2025,C0051,Customer 51,Bengaluru,Karnataka,South,P011,Notebook,Office Supplies,1,180,2%,Vikram,Credit Card,176.4
+O00899,04-01-2024,C0051,Customer 51,Bengaluru,Karnataka,South,P012,Backpack,Accessories,4,2200,0%,Priya,Cash,8800
+O00900,10-04-2024,C0204,Customer 204,Pune,Maharashtra,West,P004,Monitor,Electronics,1,14500,10%,Neha,Debit Card,13050
+O00901,13-08-2024,C0063,Customer 63,Lucknow,Uttar Pradesh,North,P007,Headphones,Accessories,2,3200,5%,Amit,UPI,6080
+O00902,12-11-2025,C0178,Customer 178,Bhubaneswar,Odisha,East,P012,Backpack,Accessories,4,2200,2%,Neha,Credit Card,8624
+O00903,02-01-2025,C0167,Customer 167,Bengaluru,Karnataka,South,P001,Laptop,Electronics,5,55000,10%,Sneha,Net Banking,247500
+O00904,21-03-2025,C0167,Customer 167,Bengaluru,Karnataka,South,P001,Laptop,Electronics,2,55000,5%,Amit,UPI,104500
+O00905,14-07-2025,C0068,Customer 68,Delhi,Delhi,North,P007,Headphones,Accessories,2,3200,8%,Arjun,Credit Card,5888
+O00906,01-09-2025,C0111,Customer 111,Jaipur,Rajasthan,North,P003,Tablet,Electronics,3,18000,5%,Neha,Credit Card,51300
+O00907,22-06-2025,C0111,Customer 111,Kochi,Kerala,South,P015,USB Hub,Accessories,2,1400,5%,Priya,Credit Card,2660
+O00908,23-04-2024,C0195,Customer 195,Surat,Gujarat,West,P001,Laptop,Electronics,3,55000,5%,Amit,UPI,156750
+O00909,13-02-2024,C0213,Customer 213,Jaipur,Rajasthan,North,P004,Monitor,Electronics,1,14500,10%,Vikram,UPI,13050
+O00910,24-05-2024,C0151,Customer 151,Hyderabad,Telangana,South,P005,Keyboard,Accessories,2,1800,10%,Sneha,Debit Card,3240
+O00911,12-04-2025,C0206,Customer 206,Kolkata,West Bengal,East,P004,Monitor,Electronics,3,14500,5%,Arjun,UPI,41325
+O00912,29-06-2025,C0117,Customer 117,Thane,Maharashtra,West,P011,Notebook,Office Supplies,3,180,0%,Karan,Credit Card,540
+O00913,28-01-2025,C0205,Customer 205,Delhi,Delhi,North,P005,Keyboard,Accessories,1,1800,5%,Karan,UPI,1710
+O00914,18-03-2024,C0136,Customer 136,Mumbai,Maharashtra,West,P012,Backpack,Accessories,1,2200,0%,Amit,UPI,2200
+O00915,23-04-2025,C0058,Customer 58,Lucknow,Uttar Pradesh,North,P014,External SSD,Electronics,1,8500,15%,Rahul,UPI,7225
+O00916,14-10-2025,C0228,Customer 228,Pune,Maharashtra,West,P001,Laptop,Electronics,2,55000,15%,Vikram,Debit Card,93500
+O00917,22-09-2024,C0036,Customer 36,Bengaluru,Karnataka,South,P012,Backpack,Accessories,2,2200,15%,Arjun,UPI,3740
+O00918,20-03-2024,C0021,Customer 21,Hyderabad,Telangana,South,P015,USB Hub,Accessories,5,1400,5%,Priya,Credit Card,6650
+O00919,23-09-2025,C0025,Customer 25,Hyderabad,Telangana,South,P005,Keyboard,Accessories,2,1800,5%,Amit,UPI,3420
+O00920,24-08-2024,C0128,Customer 128,Mumbai,Maharashtra,West,P001,Laptop,Electronics,1,55000,8%,Amit,Credit Card,50600
+O00921,24-02-2024,C0153,Customer 153,Bhubaneswar,Odisha,East,P013,Webcam,Electronics,1,4200,0%,Neha,UPI,4200
+O00922,05-01-2025,C0183,Customer 183,Delhi,Delhi,North,P006,Mouse,Accessories,1,950,5%,Amit,UPI,902.5
+O00923,18-05-2025,C0066,Customer 66,Nashik,Maharashtra,West,P003,Tablet,Electronics,1,18000,0%,Neha,Net Banking,18000
+O00924,14-09-2024,C0073,Customer 73,Mumbai,Maharashtra,West,P011,Notebook,Office Supplies,1,180,8%,Amit,UPI,165.6
+O00925,21-03-2024,C0210,Customer 210,Ahmedabad,Gujarat,West,P006,Mouse,Accessories,4,950,0%,Priya,Cash,3800
+O00926,14-07-2024,C0197,Customer 197,Kolkata,West Bengal,East,P012,Backpack,Accessories,2,2200,2%,Rahul,UPI,4312
+O00927,26-02-2024,C0069,Customer 69,Pune,Maharashtra,West,P010,Printer,Office Supplies,2,11500,0%,Sneha,Debit Card,23000
+O00928,02-10-2025,C0099,Customer 99,Delhi,Delhi,North,P001,Laptop,Electronics,1,55000,5%,Arjun,UPI,52250
+O00929,26-12-2025,C0188,Customer 188,Kochi,Kerala,South,P003,Tablet,Electronics,3,18000,5%,Priya,UPI,51300
+O00930,05-06-2025,C0177,Customer 177,Kochi,Kerala,South,P001,Laptop,Electronics,1,55000,0%,Sneha,UPI,55000
+O00931,27-01-2024,C0086,Customer 86,Pune,Maharashtra,West,P014,External SSD,Electronics,2,8500,8%,Amit,Credit Card,15640
+O00932,23-04-2025,C0172,Customer 172,Jaipur,Rajasthan,North,P006,Mouse,Accessories,2,950,5%,Neha,UPI,1805
+O00933,13-12-2025,C0187,Customer 187,Bhubaneswar,Odisha,East,P009,Desk,Furniture,1,16000,20%,Rahul,Credit Card,12800
+O00934,04-01-2024,C0142,Customer 142,Hyderabad,Telangana,South,P014,External SSD,Electronics,3,8500,5%,Priya,UPI,24225
+O00935,07-06-2024,C0235,Customer 235,Kolkata,West Bengal,East,P006,Mouse,Accessories,1,950,10%,Sneha,UPI,855
+O00936,01-01-2024,C0207,Customer 207,Jaipur,Rajasthan,North,P009,Desk,Furniture,2,16000,0%,Neha,UPI,32000
+O00937,14-01-2025,C0178,Customer 178,Bengaluru,Karnataka,South,P006,Mouse,Accessories,5,950,5%,Neha,Credit Card,4512.5
+O00938,14-07-2024,C0108,Customer 108,Bengaluru,Karnataka,South,P001,Laptop,Electronics,1,55000,0%,Rahul,Debit Card,55000
+O00939,04-11-2025,C0247,Customer 247,Delhi,Delhi,North,P007,Headphones,Accessories,1,3200,8%,Neha,UPI,2944
+O00940,18-03-2024,C0162,Customer 162,Hyderabad,Telangana,South,P015,USB Hub,Accessories,3,1400,5%,Karan,UPI,3990
+O00941,16-07-2025,C0214,Customer 214,Surat,Gujarat,West,P010,Printer,Office Supplies,1,11500,0%,Karan,UPI,11500
+O00942,04-01-2024,C0013,Customer 13,Jaipur,Rajasthan,North,P002,Smartphone,Electronics,1,28000,8%,Priya,UPI,25760
+O00943,31-12-2025,C0069,Customer 69,Bengaluru,Karnataka,South,P009,Desk,Furniture,2,16000,0%,Sneha,Cash,32000
+O00944,19-11-2024,C0187,Customer 187,Nashik,Maharashtra,West,P003,Tablet,Electronics,1,18000,0%,Sneha,Credit Card,18000
+O00945,22-10-2024,C0056,Customer 56,Hyderabad,Telangana,South,P009,Desk,Furniture,1,16000,10%,Vikram,Credit Card,14400
+O00946,28-08-2024,C0017,Customer 17,Thane,Maharashtra,West,P008,Office Chair,Furniture,1,12500,8%,Amit,Debit Card,11500
+O00947,19-06-2024,C0066,Customer 66,Thane,Maharashtra,West,P012,Backpack,Accessories,3,2200,5%,Rahul,Net Banking,6270
+O00948,30-01-2025,C0227,Customer 227,Hyderabad,Telangana,South,P010,Printer,Office Supplies,2,11500,8%,Arjun,UPI,21160
+O00949,24-09-2024,C0057,Customer 57,Ahmedabad,Gujarat,West,P013,Webcam,Electronics,2,4200,5%,Amit,Debit Card,7980
+O00950,15-09-2024,C0080,Customer 80,Kochi,Kerala,South,P003,Tablet,Electronics,1,18000,5%,Sneha,Net Banking,17100
+O00951,25-04-2024,C0184,Customer 184,Bengaluru,Karnataka,South,P010,Printer,Office Supplies,2,11500,0%,Rahul,Credit Card,23000
+O00952,22-03-2025,C0237,Customer 237,Pune,Maharashtra,West,P006,Mouse,Accessories,2,950,5%,Neha,Credit Card,1805
+O00953,18-10-2025,C0140,Customer 140,Delhi,Delhi,North,P007,Headphones,Accessories,2,3200,0%,Arjun,UPI,6400
+O00954,01-08-2024,C0070,Customer 70,Surat,Gujarat,West,P002,Smartphone,Electronics,2,28000,5%,Amit,Net Banking,53200
+O00955,15-10-2024,C0165,Customer 165,Mumbai,Maharashtra,West,P004,Monitor,Electronics,2,14500,5%,Arjun,Net Banking,27550
+O00956,22-04-2025,C0118,Customer 118,Ahmedabad,Gujarat,West,P005,Keyboard,Accessories,2,1800,2%,Arjun,UPI,3528
+O00957,27-03-2024,C0176,Customer 176,Hyderabad,Telangana,South,P002,Smartphone,Electronics,1,28000,0%,Rahul,Credit Card,28000
+O00958,11-11-2025,C0002,Customer 2,Kolkata,West Bengal,East,P013,Webcam,Electronics,1,4200,15%,Priya,Net Banking,3570
+O00959,07-07-2024,C0045,Customer 45,Thane,Maharashtra,West,P008,Office Chair,Furniture,1,12500,0%,Rahul,UPI,12500
+O00960,18-07-2025,C0007,Customer 7,Bengaluru,Karnataka,South,P015,USB Hub,Accessories,1,1400,5%,Priya,Debit Card,1330
+O00961,26-05-2024,C0143,Customer 143,Bengaluru,Karnataka,South,P015,USB Hub,Accessories,2,1400,2%,Vikram,UPI,2744
+O00962,03-01-2024,C0039,Customer 39,Thane,Maharashtra,West,P014,External SSD,Electronics,3,8500,8%,Rahul,UPI,23460
+O00963,21-01-2024,C0186,Customer 186,Chennai,Tamil Nadu,South,P011,Notebook,Office Supplies,1,180,5%,Neha,UPI,171
+O00964,02-05-2024,C0203,Customer 203,Bhubaneswar,Odisha,East,P002,Smartphone,Electronics,2,28000,0%,Arjun,UPI,56000
+O00965,30-04-2025,C0129,Customer 129,Lucknow,Uttar Pradesh,North,P011,Notebook,Office Supplies,2,180,2%,Neha,Net Banking,352.8
+O00966,03-08-2025,C0236,Customer 236,Kochi,Kerala,South,P010,Printer,Office Supplies,3,11500,5%,Sneha,Net Banking,32775
+O00967,06-11-2025,C0010,Customer 10,Pune,Maharashtra,West,P012,Backpack,Accessories,2,2200,0%,Sneha,Net Banking,4400
+O00968,05-08-2024,C0131,Customer 131,Bengaluru,Karnataka,South,P005,Keyboard,Accessories,2,1800,8%,Sneha,UPI,3312
+O00969,27-09-2024,C0026,Customer 26,Jaipur,Rajasthan,North,P005,Keyboard,Accessories,2,1800,0%,Vikram,UPI,3600
+O00970,26-07-2024,C0047,Customer 47,Bhubaneswar,Odisha,East,P013,Webcam,Electronics,2,4200,0%,Sneha,Debit Card,8400
+O00971,23-12-2024,C0090,Customer 90,Bengaluru,Karnataka,South,P014,External SSD,Electronics,3,8500,15%,Karan,Credit Card,21675
+O00972,18-07-2024,C0199,Customer 199,Surat,Gujarat,West,P005,Keyboard,Accessories,4,1800,10%,Karan,Debit Card,6480
+O00973,31-01-2024,C0008,Customer 8,Bengaluru,Karnataka,South,P014,External SSD,Electronics,2,8500,5%,Amit,UPI,16150
+O00974,16-05-2025,C0154,Customer 154,Bengaluru,Karnataka,South,P013,Webcam,Electronics,1,4200,0%,Sneha,Credit Card,4200
+O00975,02-04-2024,C0071,Customer 71,Delhi,Delhi,North,P009,Desk,Furniture,1,16000,0%,Sneha,UPI,16000
+O00976,13-03-2024,C0117,Customer 117,Mumbai,Maharashtra,West,P009,Desk,Furniture,1,16000,20%,Vikram,UPI,12800
+O00977,07-08-2024,C0179,Customer 179,Mumbai,Maharashtra,West,P011,Notebook,Office Supplies,2,180,8%,Neha,UPI,331.2
+O00978,27-02-2024,C0164,Customer 164,Lucknow,Uttar Pradesh,North,P011,Notebook,Office Supplies,1,180,8%,Vikram,Debit Card,165.6
+O00979,26-10-2025,C0087,Customer 87,Bengaluru,Karnataka,South,P010,Printer,Office Supplies,1,11500,10%,Vikram,UPI,10350
+O00980,20-05-2025,C0053,Customer 53,Pune,Maharashtra,West,P010,Printer,Office Supplies,2,11500,10%,Sneha,Debit Card,20700
+O00981,30-07-2025,C0103,Customer 103,Jaipur,Rajasthan,North,P004,Monitor,Electronics,1,14500,5%,Vikram,UPI,13775
+O00982,15-02-2024,C0222,Customer 222,Lucknow,Uttar Pradesh,North,P015,USB Hub,Accessories,3,1400,2%,Karan,Credit Card,4116
+O00983,19-06-2025,C0154,Customer 154,Kochi,Kerala,South,P001,Laptop,Electronics,1,55000,10%,Priya,UPI,49500
+O00984,30-08-2024,C0232,Customer 232,Chennai,Tamil Nadu,South,P001,Laptop,Electronics,1,55000,0%,Amit,Credit Card,55000
+O00985,24-04-2024,C0193,Customer 193,Bhubaneswar,Odisha,East,P010,Printer,Office Supplies,4,11500,15%,Vikram,Cash,39100
+O00986,23-10-2024,C0210,Customer 210,Pune,Maharashtra,West,P007,Headphones,Accessories,1,3200,5%,Rahul,Credit Card,3040
+O00987,21-06-2025,C0204,Customer 204,Delhi,Delhi,North,P001,Laptop,Electronics,1,55000,15%,Neha,Net Banking,46750
+O00988,12-05-2025,C0199,Customer 199,Thane,Maharashtra,West,P004,Monitor,Electronics,2,14500,0%,Vikram,UPI,29000
+O00989,05-11-2024,C0056,Customer 56,Nashik,Maharashtra,West,P014,External SSD,Electronics,1,8500,8%,Karan,Credit Card,7820
+O00990,17-06-2025,C0065,Customer 65,Ahmedabad,Gujarat,West,P003,Tablet,Electronics,2,18000,10%,Vikram,UPI,32400
+O00991,22-11-2025,C0164,Customer 164,Thane,Maharashtra,West,P004,Monitor,Electronics,3,14500,5%,Amit,Credit Card,41325
+O00992,18-01-2025,C0066,Customer 66,Ahmedabad,Gujarat,West,P004,Monitor,Electronics,1,14500,0%,Vikram,UPI,14500
+O00993,01-11-2025,C0085,Customer 85,Mumbai,Maharashtra,West,P012,Backpack,Accessories,1,2200,5%,Amit,UPI,2090
+O00994,28-02-2024,C0244,Customer 244,Kolkata,West Bengal,East,P014,External SSD,Electronics,2,8500,2%,Neha,UPI,16660
+O00995,23-10-2024,C0212,Customer 212,Pune,Maharashtra,West,P003,Tablet,Electronics,3,18000,15%,Karan,Credit Card,45900
+O00996,12-01-2024,C0029,Customer 29,Delhi,Delhi,North,P014,External SSD,Electronics,1,8500,10%,Neha,Credit Card,7650
+O00997,27-12-2024,C0171,Customer 171,Mumbai,Maharashtra,West,P005,Keyboard,Accessories,2,1800,2%,Priya,Net Banking,3528
+O00998,23-04-2024,C0062,Customer 62,Lucknow,Uttar Pradesh,North,P013,Webcam,Electronics,2,4200,2%,Karan,Debit Card,8232
+O00999,22-03-2024,C0079,Customer 79,Kochi,Kerala,South,P004,Monitor,Electronics,2,14500,0%,Arjun,UPI,29000
+O01000,17-09-2025,C0014,Customer 14,Nashik,Maharashtra,West,P003,Tablet,Electronics,2,18000,0%,Vikram,Credit Card,36000
